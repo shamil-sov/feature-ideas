@@ -1,72 +1,207 @@
-✅ Song battles
+# Track Competitions
 
+BandLab could have recurring track competitions for each genre, for example:
 
+Hip-Hop, Rock, Pop, Electronic, R&B, etc.
 
-BandLab has an ongoing track competition for each genre, such as Hip-Hop, Rock, Pop, Electronic, or R&B. These competitions are always open rather than created as temporary events.
-1. Before creators can submit their own track, they must first vote in a certain number of track comparisons—for example, 10.
-2. In each comparison, users are shown two tracks from the same genre. They listen to a short part of both and choose which one they prefer.
-3. After completing the required votes, the creator can submit one track to that genre’s competition.
-4. The competition can support hundreds or thousands of tracks because every creator contributes votes before submitting.
-5. Artist names, follower counts, play counts, and current positions can be hidden while voting, so users judge the music rather than the artist’s popularity.
-6. Every track should be shown to a similar number of voters, giving all creators a fair chance.
-7. A track receives a win when it is chosen over another track and a loss when the other track is selected.
-8. Tracks continuously move up or down the genre ranking based on their results. The leaderboard could show:#12 — Track Name18 wins · 7 losses · 72% win rate↑ 5 positions
-9. Rankings could reset or start a new season every week or month, giving new tracks a chance to rise instead of allowing old winners to stay at the top forever.
-10. Highly ranked tracks could receive badges, promotion, profile visibility, AI tokens, prizes, or other opportunities.
+Each competition runs for a limited time, for example 4–5 days, or maybe weekly.
 
+Creators submit tracks into a genre competition. Other users vote between tracks from the same genre. At the end of the competition, the top tracks become finalists or winners.
 
-Why users would vote
-The main motivation is the opportunity to participate in the competition and have their own music heard.
+The main idea is to give creators a fun and fair way to get their music heard.
 
-Before creators can submit a track, they must first vote for other tracks. 
+## How it works
 
-This creates a fair exchange: if you want the community to listen to your music, you must also listen to and support other creators.
+Before a creator can submit their own track, they first need to vote in a certain number of track comparisons.
 
-The competition page could also include a list of the most active voters
-Why it’s needed ?
-This is form of acknowledgment and status
+For example, before submitting one track, the creator needs to vote 10 times.
 
-This gives them extra exposure and encourages users to keep  voting even after they have submitted their own track.
+In each vote, the user sees two tracks from the same genre. They listen to a short part of both tracks and choose which one they prefer.
 
-Voting also helps users:
-* Discover new music in their favourite genre
-* Influence which tracks rise in the ranking
-* Get noticed by other artists and listeners
-* Bring more attention to their own profile and music
+After completing the required votes, the creator can submit one track to that genre competition.
 
+This creates a fair exchange:
 
-The idea is that voting is not only a requirement. It is another way for creators to participate, support the community, and gain exposure.
+If you want people to listen to your music, you also need to listen to and support other creators.
 
+## Voting flow
 
-ANOTHER IDEA
-We can have a competition for new artists, the ones who have created at least N tracks but have < N followers
+The voting experience could be simple:
 
-We need to have a comment section on the battle
+User opens the competition page.
+User selects a genre, or enters the genre competition where they submitted.
+User is shown two tracks from that genre.
+User listens to a short part of both.
+User picks the track they prefer.
+The next comparison is shown.
 
-——
+This can support many tracks because every creator who wants to submit also helps generate votes for others.
 
+## Fairness
 
-Challenge
+To make voting more fair, some information could be hidden during voting:
 
-- the hardest problem is not counting votes. It is making sure every track gets a fair chance to be heard
-- How to scale ? Should we have 1 ongoing competition per each genre ? Or multiple ?
+Artist name
+Follower count
+Play count
+Current ranking position
 
+This way, users judge the music itself, not the popularity of the artist.
 
-—
+Each track should also be shown to a similar number of voters, so every creator gets a fair chance.
 
-REFS
+## Ranking
 
-￼
-—
+A track receives a win when it is chosen over another track.
 
+A track receives a loss when the other track is chosen.
 
+Tracks move up or down in the ranking based on voting results.
 
-Refs
-- Inspired by album competition I saw in Instagram
+Example leaderboard item:
+
+#12 — Track Name
+18 wins · 7 losses · 72% win rate
+↑ 5 positions
+
+## Competition ending
+
+The competition should not feel endless.
+
+After the voting period ends, for example after 4–5 days, voting closes and the final results are shown.
+
+The final page could show:
+
+Top tracks
+Finalists
+Winner
+Win rate
+Number of wins/losses
+Movement in ranking
+Badges or rewards
+
+This makes the competition feel more exciting because there is a clear ending.
+
+Users are not just voting forever. They are helping decide the final results.
+
+## Seasons
+
+Competitions could reset every week
+
+This gives new tracks a chance to rise instead of letting old winners stay at the top forever.
+
+Example:
+
+Hip-Hop Competition — Week 1
+Hip-Hop Competition — Week 2
+Rock Competition — June
+Electronic Competition — July
+
+Each new season gives creators another reason to come back and submit again.
+
+## Rewards
+
+Highly ranked tracks could receive rewards or extra visibility.
+
+Possible rewards:
+
+Badges
+Promotion
+Profile visibility
+AI tokens
+Prizes
+Other opportunities
+
+For example:
+
+“Top 10 Hip-Hop Finalist” badge
+“Genre Winner” badge
+Featured placement on the competition page
+Extra exposure for the creator’s profile or track
+
+## Why users would vote
+
+The main reason users would vote is that voting allows them to participate in the competition and submit their own music.
+
+But voting should not only feel like a requirement.
+
+It can also become another way for creators to participate in the community, discover music, and get noticed.
+
+Voting helps users:
+
+Discover new music in their favourite genre
+Influence which tracks rise in the ranking
+Get noticed by other artists and listeners
+Bring more attention to their own profile and music
+Support other creators
+
+## Active voters
+
+The competition page could also show the most active voters.
+
+This gives active voters some recognition and status.
+
+It also gives users another reason to keep voting even after they have already submitted their own track.
+
+For example:
+
+Top voters this week
+Most active voters in Hip-Hop
+Most active voters in Rock
+
+This makes voting feel more valuable, not just something users do once before submitting.
+
+## Comment section
+
+We should also consider adding a comment section to the competition page.
+
+This would let users discuss the competition, react to tracks, talk about finalists, and support other creators.
+
+It can make the competition feel more alive and social.
+
+## Why this could be valuable
+
+This feature gives creators a clearer reason to participate.
+
+They are not only posting music and hoping someone finds it. They are joining a visible competition where their track can move up, reach finalists, and possibly win.
+
+It can also increase listening and voting activity because every submitted track creates more voting demand.
+
+The feature could help with:
+
+More track discovery
+More creator engagement
+More repeat visits during each competition
+More profile and track visibility
+More community interaction
+More motivation for creators to publish music
+
+## Simple MVP version
+
+The first version can be kept simple:
+
+Create genre competitions
+Require users to vote before submitting
+Show two tracks from the same genre in each vote
+Hide popularity signals while voting
+Rank tracks based on wins/losses
+End the competition after a few days
+Show finalists/winners
+Give badges or visibility to top tracks
+Add comments if we want to make it more social
+
+This gives us the core experience without building a complicated tournament or round system.
+
+## Refs
 * https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
-* WEEEKLY SONG WARS : r/Bandlab
-* MUSIC BATTLE : r/Bandlab
+* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
 * https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
-* Anybody looking for song wars this week join up !!! : r/Bandlab
 * https://youtu.be/9NEsoIYq4kA
-* 
+
+## Draft UIs
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)

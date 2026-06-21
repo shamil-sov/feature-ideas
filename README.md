@@ -1,3 +1,3 @@
-# feature-ideas
+# Feature ideas
 
 Bandlab feature ideas
