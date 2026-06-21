@@ -200,8 +200,8 @@ This gives us the core experience without building a complicated tournament or r
 
 ## Draft UIs
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
