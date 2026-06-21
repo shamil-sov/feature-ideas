@@ -232,7 +232,6 @@ The first version can be kept simple:
 
 Creator selects two revisions or versions
 Creator writes one question
-Creator chooses audience
 BandLab creates a comparison card
 Voters listen to Version A and Version B
 Voters choose A, B, or No preference
