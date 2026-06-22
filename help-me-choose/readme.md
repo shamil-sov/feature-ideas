@@ -114,19 +114,6 @@ The result should be simple and easy to understand.
 The creator should quickly see which version people preferred and why.
 
 
-## Monetization opportunities
-
-This feature could be monetized in two ways.
-
-One option is to make it a premium feature, where only membership users can publish collaboration requests.
-
-Another option is to keep publishing free, but monetize the audience reach. When creating a request, the user could choose where it appears:
-
-* **Followers** — free. The request appears on the user’s profile feed and is shown to their followers.
-* **Global** — paid. The request appears on a dedicated collaboration board where any user can discover it, giving the request much higher exposure.
-
-This needs more thinking, especially around what “global” should actually mean and who the larger audience should be: all users, users in a specific genre, nearby creators, active collaborators, or people with matching skills.
-
 ## Voter rewards
 
 <img src="image-4.png" height="500">
@@ -142,3 +129,16 @@ A simple reward could be a profile badge such as:
 ## 💡 Integration with Feedback Exchange
 
 This feature can be combined with Feedback Exchange feed too
+
+## Monetization opportunities
+
+This feature could be monetized in two ways.
+
+One option is to make it a premium feature, where only membership users can publish collaboration requests.
+
+Another option is to keep publishing free, but monetize the audience reach. When creating a request, the user could choose where it appears:
+
+* **Followers** — free. The request appears on the user’s profile feed and is shown to their followers.
+* **Global** — paid. The request appears on a dedicated collaboration board where any user can discover it, giving the request much higher exposure.
+
+This needs more thinking, especially around what “global” should actually mean and who the larger audience should be: all users, users in a specific genre, nearby creators, active collaborators, or people with matching skills.
