@@ -1,3 +1,7 @@
+## Can this feature be a separate/standalone MVP?
+
+Not sure
+
 # Feature idea: Open Collaboration Invites
 
 ## Problem

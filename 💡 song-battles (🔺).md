@@ -1,6 +1,6 @@
-### 🟢 Standalone-friendly
+## Can this feature be a separate/standalone MVP?
 
-This feature can be launched as a separate page/standalone experience
+🟢 Yes.
 
 # Track Competitions
 

@@ -1,3 +1,7 @@
+## Can this feature be a separate/standalone MVP?
+
+Probably
+
 # Feature idea: Help Me Choose
 
 ## Basic idea

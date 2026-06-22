@@ -1,3 +1,7 @@
+## Can this feature be a separate/standalone MVP?
+
+No, should be part of the track page
+
 # Feature idea: Track Fans
 
 ## Problem

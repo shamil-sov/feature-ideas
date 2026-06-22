@@ -1,3 +1,7 @@
+## Can this feature be a separate/standalone MVP?
+
+No
+
 Yes — I’d add this as part of the platform opportunity.
 
 # Feature idea: In-App Feature Feedback
