@@ -18,7 +18,7 @@ For creators, play counts show numbers, but they do not clearly show who the rea
 
 > https://help.soundcloud.com/hc/en-us/articles/33395290216859-Top-First-Fans
 
-![alt text](Images/first-fans.png)
+![alt text](../Images/first-fans.png)
 
 Add a public fan section on each track that recognizes the users who supported the track most.
 
