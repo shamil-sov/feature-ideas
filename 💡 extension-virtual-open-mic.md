@@ -4,7 +4,9 @@ No, need to be part of publishing pop-up window
 
 # Feature idea: Share Published Track to Virtual Open Mic
 
-![alt text](Images/virtual-open-mic-share.png)
+
+
+<img src="Images/virtual-open-mic-share.png" width="400" />
 
 ## Basic idea
 
