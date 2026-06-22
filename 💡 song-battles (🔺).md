@@ -2,7 +2,7 @@
 
 🟢 Yes.
 
-# Track Competitions
+# Song battles
 
 BandLab could have recurring track competitions for each genre, for example:
 
