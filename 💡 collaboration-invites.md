@@ -2,6 +2,10 @@
 
 Not sure
 
+## UI drafts
+
+![alt text](Images/collaboratio.png)
+
 # Feature idea: Open Collaboration Invites
 
 ## Problem
