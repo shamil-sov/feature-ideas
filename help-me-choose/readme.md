@@ -84,6 +84,8 @@ No preference
 
 <img src="image-2.png" height="500">
 
+<img src="image-5.png" height="500">
+
 The voter listens to both versions and chooses one option.
 
 After voting, they can optionally explain why they chose it using quick reasons.
