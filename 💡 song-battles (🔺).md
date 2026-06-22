@@ -2,6 +2,13 @@
 
 🟢 Yes.
 
+
+## Refs
+* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
+* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
+* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
+* https://youtu.be/9NEsoIYq4kA
+
 # Song battles
 
 BandLab could have recurring track competitions for each genre, for example:
@@ -191,12 +198,6 @@ The first version can be kept simple:
 - Add comments if we want to make it more social
 
 This gives us the core experience without building a complicated tournament or round system.
-
-## Refs
-* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
-* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
-* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
-* https://youtu.be/9NEsoIYq4kA
 
 ## Draft UIs
 
