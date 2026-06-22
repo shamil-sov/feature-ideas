@@ -14,20 +14,6 @@ Help Me Choose is a feature that lets creators ask people to compare two version
 
 The simple problem is:
 
-“I have two versions. Which one should I choose?”
-
-For example, a creator may be unsure about:
-
-- Two chorus versions
-- Two mixes
-- Two vocal takes
-- Two revisions of the same song
-- Maybe even two video recordings later
-
-Instead of guessing alone, the creator can ask fans, followers, selected users, or the wider BandLab community to vote.
-
-## Problem
-
 Creators often have multiple versions of the same idea and are not sure which one works better.
 
 For example:
@@ -37,7 +23,10 @@ For example:
 - Which vocal take has better energy?
 - Which version fits the song better?
 
+
 Right now, this kind of decision is usually private or manual. A creator might send versions to friends, ask in chat, or make a normal poll, but there is no focused comparison flow for music versions.
+
+Instead of guessing alone, the creator can ask fans, followers, selected users, or the wider BandLab community to vote.
 
 ## How it works
 
@@ -60,19 +49,14 @@ Which chorus feels more memorable?
 
 After that, the creator chooses who can vote.
 
+TBD where it should be published
+
+- Feed ?
+- Dedicate feed ?
+
 Possible audiences:
-
-- Selected users
-- Fans
 - Followers
-- Everyone
-
-The creator can also choose extra options:
-
-- Allow comments or not
-- Let voters see results or not
-- Show or hide the creator's identity
-- Set an expiry time for the poll
+- Everyone ?
 
 BandLab then creates a simple comparison card.
 
@@ -125,33 +109,6 @@ The result should be simple and easy to understand.
 
 The creator should quickly see which version people preferred and why.
 
-## Why this could be useful
-
-This helps creators make better decisions while working on music.
-
-Instead of only asking themselves, they can get feedback from people who may actually listen to the final track.
-
-It can help with:
-
-- Choosing the stronger version
-- Getting feedback before publishing
-- Increasing fan involvement
-- Making followers feel part of the creative process
-- Helping creators feel more confident about decisions
-
-It also creates a more collaborative feeling around music creation.
-
-Fans are not only listening after the track is finished. They can help shape the song while it is still being made.
-
-## Relationship to polls
-
-This could work like an extension of the existing poll concept.
-
-But instead of a generic poll, this is focused on comparing two music versions.
-
-The main difference is that the poll is connected to actual project versions or revisions, and the voting experience includes listening to both clips.
-
-So it is still simple like a poll, but more useful for music creation.
 
 ## Relationship to Crowd Review
 
@@ -163,47 +120,18 @@ Help Me Choose would be simpler and more lightweight.
 
 Instead of sending one track for a full review, the creator asks one specific comparison question about two versions.
 
-## Public / collaborative version
-
-This could also have a more public version, similar to the collaborative feeling of Virtual Open Mic.
-
-There could be a separate page where users publish two versions of a song and other users can vote or comment.
-
-Any user can publish a comparison.
-
-Any user can vote or comment.
-
-This would make the feature feel more social, not only private feedback.
-
-## Audience options
-
-The creator should be able to choose who receives the comparison.
-
-Possible options:
-
-Selected users
-Fans
-Followers
-Everyone
-
-There could also be a “fan list” style option, where the creator sends it to specific people whose opinion they care about.
-
-This is useful because sometimes creators do not want feedback from everyone. They may only want feedback from fans or trusted listeners.
-
 ## Monetization opportunities
 
-The core experience should probably be free because the feature needs enough creators and voters to become useful.
+This feature could be monetized in two ways.
 
-Possible future membership features:
+One option is to make it a premium feature, where only membership users can publish collaboration requests.
 
-- Genre-based public targeting
-- More responses
+Another option is to keep publishing free, but monetize the audience reach. When creating a request, the user could choose where it appears:
 
-For example:
-- Free version: send to followers
-- Paid version: reach a larger audience or target listeners by genre
+* **Followers** — free. The request appears on the user’s profile feed and is shown to their followers.
+* **Global** — paid. The request appears on a dedicated collaboration board where any user can discover it, giving the request much higher exposure.
 
-This needs more thinking, especially around who exactly the larger audience would be.
+This needs more thinking, especially around what “global” should actually mean and who the larger audience should be: all users, users in a specific genre, nearby creators, active collaborators, or people with matching skills.
 
 ## Voter rewards
 
@@ -218,17 +146,3 @@ The reward does not need to be big. The main point is to make voting feel valuab
 The comparison should be fair.
 
 Both versions should use the same part of the song, otherwise voters may choose based on the section rather than the version quality.
-
-The question should also be specific.
-
-“Which is better?” may be too broad.
-
-Better examples:
-
-Which chorus feels more memorable?
-Which vocal take has better energy?
-Which mix sounds cleaner?
-
-Specific questions produce more useful feedback.
-
-We also need to be careful that creators do not feel ignored if they get too few votes. The feature is only valuable if enough people actually participate.
