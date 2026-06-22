@@ -1,3 +1,7 @@
+### 🟢 Standalone-friendly
+
+This feature can be launched as a separate page/standalone experience
+
 # Track Competitions
 
 BandLab could have recurring track competitions for each genre, for example:
