@@ -4,9 +4,9 @@ Probably
 
 ## UI drafts
 
-![alt text](../Images/help-me-choose.png)
+<!-- <img src="../Images/help-me-choose.png" height="400"> -->
 
-![alt text](../Images/help-me-choose-feed.png)
+<img src="../Images/help-me-choose-feed.png" height="400">
 
 # Feature idea: Help Me Choose
 
@@ -32,7 +32,7 @@ Instead of guessing alone, the creator can ask fans, followers, selected users, 
 
 ## How it works
 
-![alt text](image.png)
+<img src="image.png" height="400">
 
 The creator opens a saved project or revision and taps Help Me Choose.
 
@@ -80,9 +80,9 @@ No preference
 
 ## Voting experience
 
-![alt text](image-1.png)
+<img src="image-1.png" height="400">
 
-![alt text](image-2.png)
+<img src="image-2.png" height="400">
 
 The voter listens to both versions and chooses one option.
 
@@ -103,7 +103,7 @@ The creator can understand why people preferred one version.
 
 ## Result for the creator
 
-![alt text](image-3.png)
+<img src="image-3.png" height="400">
 
 The creator receives a clear result.
 
@@ -135,7 +135,7 @@ This needs more thinking, especially around what “global” should actually me
 
 ## Voter rewards
 
-![alt text](image-4.png)
+<img src="image-4.png" height="400">
 
 Voters may naturally enjoy this feature because it is quick, social, and gives them influence over a creator’s decision.
 
