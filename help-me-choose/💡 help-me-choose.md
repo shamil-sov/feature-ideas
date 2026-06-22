@@ -4,9 +4,9 @@ Probably
 
 ## UI drafts
 
-![alt text](Images/help-me-choose.png)
+![alt text](../Images/help-me-choose.png)
 
-![alt text](Images/help-me-choose-feed.png)
+![alt text](../Images/help-me-choose-feed.png)
 
 # Feature idea: Help Me Choose
 
@@ -31,6 +31,8 @@ Right now, this kind of decision is usually private or manual. A creator might s
 Instead of guessing alone, the creator can ask fans, followers, selected users, or the wider BandLab community to vote.
 
 ## How it works
+
+![alt text](image.png)
 
 The creator opens a saved project or revision and taps Help Me Choose.
 
@@ -78,6 +80,10 @@ No preference
 
 ## Voting experience
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 The voter listens to both versions and chooses one option.
 
 After voting, they can optionally explain why they chose it using quick reasons.
@@ -96,6 +102,8 @@ This makes feedback more useful than just “A won” or “B won”.
 The creator can understand why people preferred one version.
 
 ## Result for the creator
+
+![alt text](image-3.png)
 
 The creator receives a clear result.
 
@@ -126,6 +134,8 @@ Another option is to keep publishing free, but monetize the audience reach. When
 This needs more thinking, especially around what “global” should actually mean and who the larger audience should be: all users, users in a specific genre, nearby creators, active collaborators, or people with matching skills.
 
 ## Voter rewards
+
+![alt text](image-4.png)
 
 Voters may naturally enjoy this feature because it is quick, social, and gives them influence over a creator’s decision.
 
