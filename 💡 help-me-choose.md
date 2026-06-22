@@ -2,6 +2,10 @@
 
 Probably
 
+## UI drafts
+
+![alt text](Images/help-me-choose.png)
+
 # Feature idea: Help Me Choose
 
 ## Basic idea
