@@ -19,35 +19,35 @@ The goal is to help users discover artists, reward creators for growth, and give
 
 BandLab calculates artist rankings based on signals such as:
 
-Plays
-Likes
-Recent growth in plays and likes
+- Plays
+- Likes
+- Recent growth in plays and likes
 
 Charts can be grouped by genre and time period.
 
 Genres could include:
 
-Hip-Hop
-Rock
-Pop
-Electronic
-R&B
-Alternative Rock
-Other major genres
+- Hip-Hop
+- Rock
+- Pop
+- Electronic
+- R&B
+- Alternative Rock
+- Other major genres
 
 Time periods could include:
 
-Today
-This Week
-This Month
+- Today
+- This Week
+- This Month
 
 Examples:
 
-Top Hip-Hop Artists Today
-Top Rock Artists This Week
-Top Electronic Artists This Month
-Fastest Growing Pop Artists This Week
-Biggest Movers in Alternative Rock This Month
+- Top Hip-Hop Artists Today
+- Top Rock Artists This Week
+- Top Electronic Artists This Month
+- Fastest Growing Pop Artists This Week
+- Biggest Movers in Alternative Rock This Month
 
 This means users do not only see one global artist chart. They can explore charts based on genre and timeline.
 
@@ -61,11 +61,11 @@ To make the chart more fair and useful for smaller creators, artists can be grou
 
 Example tiers:
 
-0–100 followers
-100–1,000 followers
-1,000–10,000 followers
-10,000–100,000 followers
-100,000+ followers
+- 0–100 followers
+- 100–1,000 followers
+- 1,000–10,000 followers
+- 10,000–100,000 followers
+- 100,000+ followers
 
 This means artists are ranked against other artists at a similar level.
 
@@ -77,13 +77,13 @@ This makes rankings feel more achievable and helps surface emerging artists.
 
 Some possible chart examples:
 
-Top Hip-Hop Artists Today
-Top Hip-Hop Artists This Week
-Top Hip-Hop Artists This Month
-Top Rock Artists in the 1K–10K Follower Tier
-Fastest Growing Electronic Artists This Week
-Biggest Movers in Alternative Rock This Month
-New Entries in Pop This Week
+- Top Hip-Hop Artists Today
+- Top Hip-Hop Artists This Week
+- Top Hip-Hop Artists This Month
+- Top Rock Artists in the 1K–10K Follower Tier
+- Fastest Growing Electronic Artists This Week
+- Biggest Movers in Alternative Rock This Month
+- New Entries in Pop This Week
 
 The focus should not only be lifetime popularity.
 
@@ -108,10 +108,10 @@ Charts should show how an artist’s position changes over time.
 
 Examples:
 
-↑ Up 12 positions this week
-↓ Down 3 positions
-New Entry
-Highest Rank: #5
+- ↑ Up 12 positions this week
+- ↓ Down 3 positions
+- New Entry
+- Highest Rank: #5
 
 This makes the chart feel alive and gives creators a reason to check their progress.
 
@@ -123,10 +123,10 @@ BandLab can notify artists when something meaningful happens in the chart.
 
 Examples:
 
-You entered the Top 100 Hip-Hop Artists this week.
-Your ranking increased from #24 to #12.
-You are one of the fastest-growing artists in Alternative Rock this month.
-This is your highest chart position so far.
+- You entered the Top 100 Hip-Hop Artists this week.
+- Your ranking increased from #24 to #12.
+- You are one of the fastest-growing artists in Alternative Rock this month.
+- This is your highest chart position so far.
 
 These notifications can create small moments of excitement and give creators a reason to open the app again.
 
@@ -138,10 +138,10 @@ It should heavily consider recent plays and likes within the selected time perio
 
 The chart page can highlight:
 
-New Entries
-Fastest Risers
-Trending Artists
-Biggest Movers This Week
+- New Entries
+- Fastest Risers
+- Trending Artists
+- Biggest Movers This Week
 
 This keeps the charts fresh and helps new artists get visibility.
 
@@ -161,11 +161,11 @@ Highly ranked artists could receive extra recognition or rewards.
 
 Possible rewards:
 
-Featured placement in discovery surfaces
-Profile badges
-Profile boosts
-AI tokens
-Access to special opportunities or contests
+- Featured placement in discovery surfaces
+- Profile badges
+- Profile boosts
+- AI tokens
+- Access to special opportunities or contests
 
 The main purpose is not just rewards, though.
 
@@ -197,19 +197,19 @@ The strongest potential impact is probably creator retention.
 
 Artists would have reasons to come back and check:
 
-Their current position
-Whether they moved up or down
-Their highest position
-Who is ranked around them
-What they need to do to keep growing
+- Their current position
+- Whether they moved up or down
+- Their highest position
+- Who is ranked around them
+- What they need to do to keep growing
 
 Notifications make this stronger because they turn ranking changes into small wins.
 
 Examples:
 
-You entered the Top 100 Hip-Hop Artists this week.
-You moved from #42 to #18 this week.
-This is your highest chart position so far.
+- You entered the Top 100 Hip-Hop Artists this week.
+- You moved from #42 to #18 this week.
+- This is your highest chart position so far.
 
 This can motivate creators to open BandLab, publish again, share their profile, and engage with their audience.
 
@@ -221,9 +221,9 @@ The ranking needs to change often enough to feel alive. If artists stay in the s
 
 The biggest impact would probably be in three areas:
 
-Creator motivation and retention
-Discovery of smaller artists
-More publishing and promotion activity
+- Creator motivation and retention
+- Discovery of smaller artists
+- More publishing and promotion activity
 
 The profile badge and shareable ranking are especially useful because they give creators something they may want to share outside BandLab.
 
@@ -239,8 +239,8 @@ A safer future monetization option could be more detailed ranking history for me
 
 For example:
 
-Free users see current rank and recent movement.
-Members see complete 90-day ranking history and deeper performance trends.
+- Free users see current rank and recent movement.
+- Members see complete 90-day ranking history and deeper performance trends.
 
 This keeps the core chart experience available to everyone, while giving members extra insight.
 
@@ -258,24 +258,24 @@ We should also make sure the ranking rewards recent plays and likes, not only li
 
 The first version can be kept simple:
 
-One standalone Artist Charts page
-A small set of major genres
-Artists grouped by follower ranges
-Weekly rankings
-Top 100 artists in each group
-Ranking based mainly on plays and likes
-Current rank and movement since the previous week
-A chart badge on the artist profile
-Notifications for entering the chart, moving up, and reaching a personal best
+- One standalone Artist Charts page
+- A small set of major genres
+- Artists grouped by follower ranges
+- Weekly rankings
+- Top 100 artists in each group
+- Ranking based mainly on plays and likes
+- Current rank and movement since the previous week
+- A chart badge on the artist profile
+- Notifications for entering the chart, moving up, and reaching a personal best
 
 We do not need in the first version:
 
-Complicated rewards
-Detailed analytics
-Daily and monthly versions
-Hundreds of genres
-Manual artist applications
-A major redesign of discovery or profiles
+- Complicated rewards
+- Detailed analytics
+- Daily and monthly versions
+- Hundreds of genres
+- Manual artist applications
+- A major redesign of discovery or profiles
 
 The profile integration can be simple: show a badge with the current rank, and link it to the standalone chart page.
 

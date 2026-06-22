@@ -47,11 +47,11 @@ Showing this option right after publishing is a good moment because the creator 
 
 This could help with:
 
-Virtual Open Mic discovery
-More tracks submitted to Virtual Open Mic
-More listens, reactions, and comments
-More creator motivation
-Better creator retention
+- Virtual Open Mic discovery
+- More tracks submitted to Virtual Open Mic
+- More listens, reactions, and comments
+- More creator motivation
+- Better creator retention
 
 If a creator gets attention after publishing, they have a reason to come back and check what happened.
 

@@ -21,8 +21,7 @@ In each vote, the user sees two tracks from the same genre. They listen to a sho
 After completing the required votes, the creator can submit one track to that genre competition.
 
 This creates a fair exchange:
-
-If you want people to listen to your music, you also need to listen to and support other creators.
+- If you want people to listen to your music, you also need to listen to and support other creators.
 
 ## Voting flow
 
@@ -41,10 +40,10 @@ This can support many tracks because every creator who wants to submit also help
 
 To make voting more fair, some information could be hidden during voting:
 
-Artist name
-Follower count
-Play count
-Current ranking position
+- Artist name
+- Follower count
+- Play count
+- Current ranking position
 
 This way, users judge the music itself, not the popularity of the artist.
 
@@ -72,13 +71,13 @@ After the voting period ends, for example after 4–5 days, voting closes and th
 
 The final page could show:
 
-Top tracks
-Finalists
-Winner
-Win rate
-Number of wins/losses
-Movement in ranking
-Badges or rewards
+- Top tracks
+- Finalists
+- Winner
+- Win rate
+- Number of wins/losses
+- Movement in ranking
+- Badges or rewards
 
 This makes the competition feel more exciting because there is a clear ending.
 
@@ -86,16 +85,14 @@ Users are not just voting forever. They are helping decide the final results.
 
 ## Seasons
 
-Competitions could reset every week
-
-This gives new tracks a chance to rise instead of letting old winners stay at the top forever.
+Competitions could reset every week. This gives new tracks a chance to rise instead of letting old winners stay at the top forever.
 
 Example:
 
-Hip-Hop Competition — Week 1
-Hip-Hop Competition — Week 2
-Rock Competition — June
-Electronic Competition — July
+- Hip-Hop Competition — Week 1
+- Hip-Hop Competition — Week 2
+- Rock Competition — June
+- Electronic Competition — July
 
 Each new season gives creators another reason to come back and submit again.
 
@@ -105,19 +102,18 @@ Highly ranked tracks could receive rewards or extra visibility.
 
 Possible rewards:
 
-Badges
-Promotion
-Profile visibility
-AI tokens
-Prizes
-Other opportunities
+- Badges
+- Promotion
+- Profile visibility
+- AI tokens
+- Prizes
+- Other opportunities
 
 For example:
-
-“Top 10 Hip-Hop Finalist” badge
-“Genre Winner” badge
-Featured placement on the competition page
-Extra exposure for the creator’s profile or track
+- "Top 10 Hip-Hop Finalist" badge
+- "Genre Winner" badge
+- Featured placement on the competition page
+- Extra exposure for the creator's profile or track
 
 ## Why users would vote
 
@@ -129,11 +125,11 @@ It can also become another way for creators to participate in the community, dis
 
 Voting helps users:
 
-Discover new music in their favourite genre
-Influence which tracks rise in the ranking
-Get noticed by other artists and listeners
-Bring more attention to their own profile and music
-Support other creators
+- Discover new music in their favourite genre
+- Influence which tracks rise in the ranking
+- Get noticed by other artists and listeners
+- Bring more attention to their own profile and music
+- Support other creators
 
 ## Active voters
 
@@ -145,9 +141,9 @@ It also gives users another reason to keep voting even after they have already s
 
 For example:
 
-Top voters this week
-Most active voters in Hip-Hop
-Most active voters in Rock
+- Top voters this week
+- Most active voters in Hip-Hop
+- Most active voters in Rock
 
 This makes voting feel more valuable, not just something users do once before submitting.
 
@@ -169,26 +165,26 @@ It can also increase listening and voting activity because every submitted track
 
 The feature could help with:
 
-More track discovery
-More creator engagement
-More repeat visits during each competition
-More profile and track visibility
-More community interaction
-More motivation for creators to publish music
+- More track discovery
+- More creator engagement
+- More repeat visits during each competition
+- More profile and track visibility
+- More community interaction
+- More motivation for creators to publish music
 
 ## Simple MVP version
 
 The first version can be kept simple:
 
-Create genre competitions
-Require users to vote before submitting
-Show two tracks from the same genre in each vote
-Hide popularity signals while voting
-Rank tracks based on wins/losses
-End the competition after a few days
-Show finalists/winners
-Give badges or visibility to top tracks
-Add comments if we want to make it more social
+- Create genre competitions
+- Require users to vote before submitting
+- Show two tracks from the same genre in each vote
+- Hide popularity signals while voting
+- Rank tracks based on wins/losses
+- End the competition after a few days
+- Show finalists/winners
+- Give badges or visibility to top tracks
+- Add comments if we want to make it more social
 
 This gives us the core experience without building a complicated tournament or round system.
 

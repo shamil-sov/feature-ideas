@@ -10,15 +10,11 @@ https://www.reddit.com/r/Bandlab/comments/1okk624/just_made_this_song_having_tro
 
 Examples:
 
-“I need someone to finish the verse.”
-
-“I need a female vocalist for the chorus.”
-
-“I need someone to mix this.”
-
-“Looking for a guitar solo from 1:42 to 2:05.”
-
-“I have a beat, but I need rappers on it.”
+- "I need someone to finish the verse."
+- "I need a female vocalist for the chorus."
+- "I need someone to mix this."
+- "Looking for a guitar solo from 1:42 to 2:05."
+- "I have a beat, but I need rappers on it."
 
 Today this often becomes a generic “who wants to collab?” post or a full project fork.
 
@@ -32,13 +28,13 @@ Instead of saying “collab?”, the creator clearly says what is missing.
 
 Examples:
 
-Open Verse
-Need Hook
-Need Harmony
-Need Drums
-Need Guitar
-Need Mix
-Flip This Beat
+- Open Verse
+- Need Hook
+- Need Harmony
+- Need Drums
+- Need Guitar
+- Need Mix
+- Flip This Beat
 
 The request is specific, so other users immediately understand what they can add.
 
@@ -105,13 +101,13 @@ This would be a place where users go specifically to find opportunities to join.
 
 Users could browse or filter requests by:
 
-What is needed: vocalist, rapper, guitarist, drummer, producer, mixing help
-Genre: Hip-Hop, R&B, Rock, Pop, Electronic, etc.
-BPM or key
-Deadline
-Public or private invite
-Remote or location-based collaboration
-Paid, unpaid, credit, or royalty split if supported later
+- What is needed: vocalist, rapper, guitarist, drummer, producer, mixing help
+- Genre: Hip-Hop, R&B, Rock, Pop, Electronic, etc.
+- BPM or key
+- Deadline
+- Public or private invite
+- Remote or location-based collaboration
+- Paid, unpaid, credit, or royalty split if supported later
 
 Example cards:
 
@@ -127,12 +123,12 @@ This is different from the normal feed because users open it with intent: they w
 
 Responders get:
 
-Exposure
-A clear creative prompt
-Feedback
-Portfolio material
-A chance to get noticed
-A chance to become an official collaborator
+- Exposure
+- A clear creative prompt
+- Feedback
+- Portfolio material
+- A chance to get noticed
+- A chance to become an official collaborator
 
 This is useful because many users want to create, but they do not always know what to make.
 
@@ -153,30 +149,28 @@ Responders can contribute without messaging back and forth or taking the whole p
 
 It could increase:
 
-Collaboration activity
-Studio usage
-Creator discovery
-Public creative responses
-Retention for both creators and responders
+- Collaboration activity
+- Studio usage
+- Creator discovery
+- Public creative responses
+- Retention for both creators and responders
 
 ## MVP
 
-Create invite from project or clip
-Choose request type
-Define slot and instructions
-Show invite in a collaboration feed/board or special post card
-Responder records in limited Studio mode
-Submission appears publicly under the invite
-Creator can shortlist, accept, or reject
+- Create invite from project or clip
+- Choose request type
+- Define slot and instructions
+- Show invite in a collaboration feed/board or special post card
+- Responder records in limited Studio mode
+- Submission appears publicly under the invite
+- Creator can shortlist, accept, or reject
 
 ## Summary
 
 Open Collaboration Invites turn vague collaboration requests into clear creative tasks.
 
 Instead of:
-
-“Who wants to collab?”
+- "Who wants to collab?"
 
 The creator can say:
-
-“This song needs this exact thing. Add it here.”
+- "This song needs this exact thing. Add it here."

@@ -79,43 +79,37 @@ This would help us read real user feedback, spot common issues, and improve feat
 Users often have insights that are difficult to discover through analytics alone.
 
 Analytics can tell us:
-
-Users generated an AI video.
+- Users generated an AI video.
 
 Feedback can tell us:
-
-Users generated an AI video but did not like the result.
+- Users generated an AI video but did not like the result.
 
 This helps us understand:
-
-Perceived quality
-Feature usefulness
-Common frustrations
-Improvement opportunities
+- Perceived quality
+- Feature usefulness
+- Common frustrations
+- Improvement opportunities
 
 It can be especially valuable for experimental and AI-powered features where quality is subjective.
 
 ## Benefits
 
-Better understanding of feature quality
-Faster identification of problems
-Direct user insights
-Ability to measure sentiment alongside analytics
-More informed product decisions
-Reusable feedback system across many features
+- Better understanding of feature quality
+- Faster identification of problems
+- Direct user insights
+- Ability to measure sentiment alongside analytics
+- More informed product decisions
+- Reusable feedback system across many features
 
 ## MVP
 
-Show a feedback prompt after selected feature journeys.
+- Show a feedback prompt after selected feature journeys.
 
 Options:
+- 👍 Love it
+- 😐 It's okay
+- 👎 Needs improvement
 
-👍 Love it
-😐 It's okay
-👎 Needs improvement
-
-Optional text field for extra feedback.
-
-Store feedback in one centralized service.
-
-Provide an internal page where feedback can be viewed and filtered by feature.
+- Optional text field for extra feedback.
+- Store feedback in one centralized service.
+- Provide an internal page where feedback can be viewed and filtered by feature.

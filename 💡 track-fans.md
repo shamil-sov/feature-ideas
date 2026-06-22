@@ -41,18 +41,18 @@ Top Fans
 
 The ranking could be based on signals like:
 
-Plays
-Likes
-Early discovery
-Repeat listening
-Following the artist
+- Plays
+- Likes
+- Early discovery
+- Repeat listening
+- Following the artist
 
 To qualify, users may need to do useful actions such as:
 
-Play the track
-Like the track
-Follow the artist
-Have a profile picture
+- Play the track
+- Like the track
+- Follow the artist
+- Have a profile picture
 
 This makes the leaderboard more meaningful and encourages valuable platform actions.
 
@@ -62,11 +62,11 @@ Users get public proof that they supported a track.
 
 That gives them:
 
-Status
-Discovery credit
-Profile visibility
-A reason to listen again
-A reason to share their ranking
+- Status
+- Discovery credit
+- Profile visibility
+- A reason to listen again
+- A reason to share their ranking
 
 For example:
 
@@ -86,13 +86,13 @@ This can make creators feel that BandLab gives them a real fanbase, not just upl
 
 This could improve:
 
-Creator retention
-Listening engagement
-Follow rate
-Like rate
-Profile completion
-Share rate
-Fan discovery from track pages
+- Creator retention
+- Listening engagement
+- Follow rate
+- Like rate
+- Profile completion
+- Share rate
+- Fan discovery from track pages
 
 ## Monetization
 
@@ -102,8 +102,8 @@ A possible paid version could be deeper fan analytics for membership users.
 
 For example:
 
-Free: public fan leaderboard on the track page
-Paid: full fan list, deeper fan insights, repeat listener trends, history
+- Free: public fan leaderboard on the track page
+- Paid: full fan list, deeper fan insights, repeat listener trends, history
 
 ## Summary
 

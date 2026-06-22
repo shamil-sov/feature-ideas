@@ -10,11 +10,11 @@ The simple problem is:
 
 For example, a creator may be unsure about:
 
-Two chorus versions
-Two mixes
-Two vocal takes
-Two revisions of the same song
-Maybe even two video recordings later
+- Two chorus versions
+- Two mixes
+- Two vocal takes
+- Two revisions of the same song
+- Maybe even two video recordings later
 
 Instead of guessing alone, the creator can ask fans, followers, selected users, or the wider BandLab community to vote.
 
@@ -24,10 +24,10 @@ Creators often have multiple versions of the same idea and are not sure which on
 
 For example:
 
-Which chorus feels more memorable?
-Which mix sounds cleaner?
-Which vocal take has better energy?
-Which version fits the song better?
+- Which chorus feels more memorable?
+- Which mix sounds cleaner?
+- Which vocal take has better energy?
+- Which version fits the song better?
 
 Right now, this kind of decision is usually private or manual. A creator might send versions to friends, ask in chat, or make a normal poll, but there is no focused comparison flow for music versions.
 
@@ -54,17 +54,17 @@ After that, the creator chooses who can vote.
 
 Possible audiences:
 
-Selected users
-Fans
-Followers
-Everyone
+- Selected users
+- Fans
+- Followers
+- Everyone
 
 The creator can also choose extra options:
 
-Allow comments or not
-Let voters see results or not
-Show or hide the creator’s identity
-Set an expiry time for the poll
+- Allow comments or not
+- Let voters see results or not
+- Show or hide the creator's identity
+- Set an expiry time for the poll
 
 BandLab then creates a simple comparison card.
 
@@ -90,12 +90,12 @@ After voting, they can optionally explain why they chose it using quick reasons.
 
 Example reasons:
 
-More memorable
-Better vocals
-Better energy
-Cleaner mix
-Fits the song better
-Other
+- More memorable
+- Better vocals
+- Better energy
+- Cleaner mix
+- Fits the song better
+- Other
 
 This makes feedback more useful than just “A won” or “B won”.
 
@@ -125,11 +125,11 @@ Instead of only asking themselves, they can get feedback from people who may act
 
 It can help with:
 
-Choosing the stronger version
-Getting feedback before publishing
-Increasing fan involvement
-Making followers feel part of the creative process
-Helping creators feel more confident about decisions
+- Choosing the stronger version
+- Getting feedback before publishing
+- Increasing fan involvement
+- Making followers feel part of the creative process
+- Helping creators feel more confident about decisions
 
 It also creates a more collaborative feeling around music creation.
 
@@ -188,13 +188,12 @@ The core experience should probably be free because the feature needs enough cre
 
 Possible future membership features:
 
-Genre-based public targeting
-More responses
+- Genre-based public targeting
+- More responses
 
 For example:
-
-Free version: send to followers
-Paid version: reach a larger audience or target listeners by genre
+- Free version: send to followers
+- Paid version: reach a larger audience or target listeners by genre
 
 This needs more thinking, especially around who exactly the larger audience would be.
 
@@ -230,22 +229,22 @@ We also need to be careful that creators do not feel ignored if they get too few
 
 The first version can be kept simple:
 
-Creator selects two revisions or versions
-Creator writes one question
-BandLab creates a comparison card
-Voters listen to Version A and Version B
-Voters choose A, B, or No preference
-Voters can optionally choose a quick reason
-Creator sees the result
+- Creator selects two revisions or versions
+- Creator writes one question
+- BandLab creates a comparison card
+- Voters listen to Version A and Version B
+- Voters choose A, B, or No preference
+- Voters can optionally choose a quick reason
+- Creator sees the result
 
 We do not need in the first version:
 
-Complex analytics
-Large public discovery page
-Advanced targeting
-Paid audience expansion
-Rewards for voters
-Detailed reports
+- Complex analytics
+- Large public discovery page
+- Advanced targeting
+- Paid audience expansion
+- Rewards for voters
+- Detailed reports
 
 The first version can start as a focused music comparison poll.
 
