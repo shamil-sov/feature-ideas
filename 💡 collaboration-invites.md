@@ -6,6 +6,12 @@ Not sure
 
 Can be quite complex
 
+## Inspired by
+
+'Collab Search' tag in Bandlab subreddit, this tag is often used by users to searh for collaborators
+
+![alt text](Images/collaboration-invite.png)
+
 ## UI drafts
 
 ![alt text](Images/collaboration.png)
