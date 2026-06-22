@@ -9,6 +9,16 @@
 * https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
 * https://youtu.be/9NEsoIYq4kA
 
+
+
+## Draft UIs
+
+<img src="Images/image-1.png" width="400" />
+
+![alt text](Images/image-2.png)
+
+<img src="Images/image-3.png" width="400">
+
 # Song battles
 
 BandLab could have recurring track competitions for each genre, for example:
@@ -182,27 +192,3 @@ The feature could help with:
 - More profile and track visibility
 - More community interaction
 - More motivation for creators to publish music
-
-## Simple MVP version
-
-The first version can be kept simple:
-
-- Create genre competitions
-- Require users to vote before submitting
-- Show two tracks from the same genre in each vote
-- Hide popularity signals while voting
-- Rank tracks based on wins/losses
-- End the competition after a few days
-- Show finalists/winners
-- Give badges or visibility to top tracks
-- Add comments if we want to make it more social
-
-This gives us the core experience without building a complicated tournament or round system.
-
-## Draft UIs
-
-![alt text](Images/image-1.png)
-
-![alt text](Images/image-2.png)
-
-![alt text](Images/image-3.png)
