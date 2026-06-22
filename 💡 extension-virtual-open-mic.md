@@ -1,5 +1,7 @@
 # Feature idea: Share Published Track to Virtual Open Mic
 
+![alt text](Images/virtual-open-mic-share.png)
+
 ## Basic idea
 
 After a creator publishes a track, BandLab already shows a popup with follow-up actions.
