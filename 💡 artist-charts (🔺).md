@@ -1,4 +1,4 @@
-Mentioend heret oo => https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/
+Mentioend heret => https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/
 
 ![alt text](Images/image-artist-chart.png)
 
@@ -102,6 +102,18 @@ Tapping the badge would open the related chart page.
 
 This gives the artist recognition and also helps listeners discover similar artists in the same chart.
 
+### Chart insights (🤑 Premium feature)
+
+Artists could unlock deeper insights about their chart performance with a premium feature.
+
+This could include:
+
+- Detailed ranking history (how their position changed over weeks/months)
+- Which demographics or regions are listening most
+- Comparison with other artists in their tier
+
+This gives artists a clearer understanding of their growth and what's driving their success, while creating a monetization opportunity for paid members.
+
 ## Ranking movement
 
 Charts should show how an artist’s position changes over time.
@@ -130,21 +142,6 @@ Examples:
 
 These notifications can create small moments of excitement and give creators a reason to open the app again.
 
-## Freshness and discovery
-
-The chart should not only reward artists who are already big.
-
-It should heavily consider recent plays and likes within the selected time period.
-
-The chart page can highlight:
-
-- New Entries
-- Fastest Risers
-- Trending Artists
-- Biggest Movers This Week
-
-This keeps the charts fresh and helps new artists get visibility.
-
 ## Sharing rankings
 
 Artists should be able to share their ranking outside BandLab.
@@ -155,21 +152,6 @@ For example:
 
 This gives artists something to be proud of and can also bring organic promotion for BandLab.
 
-## Rewards
-
-Highly ranked artists could receive extra recognition or rewards.
-
-Possible rewards:
-
-- Featured placement in discovery surfaces
-- Profile badges
-- Profile boosts
-- AI tokens
-- Access to special opportunities or contests
-
-The main purpose is not just rewards, though.
-
-The main purpose is to give artists a visible goal and a clearer path to recognition.
 
 ## What problem does it solve?
 
@@ -209,11 +191,8 @@ Examples:
 
 - You entered the Top 100 Hip-Hop Artists this week.
 - You moved from #42 to #18 this week.
-- This is your highest chart position so far.
 
 This can motivate creators to open BandLab, publish again, share their profile, and engage with their audience.
-
-But we should be careful not to assume charts automatically improve retention.
 
 The ranking needs to change often enough to feel alive. If artists stay in the same position for weeks, they may stop checking it.
 
@@ -240,7 +219,7 @@ A safer future monetization option could be more detailed ranking history for me
 For example:
 
 - Free users see current rank and recent movement.
-- Members see complete 90-day ranking history and deeper performance trends.
+- Members see abalytics like 90-day ranking history
 
 This keeps the core chart experience available to everyone, while giving members extra insight.
 
@@ -253,43 +232,3 @@ Without follower-based groups, the feature could mostly reward artists who are a
 Then it may become just another generic chart, instead of something that helps more creators feel seen.
 
 We should also make sure the ranking rewards recent plays and likes, not only lifetime popularity.
-
-## Simple MVP version
-
-The first version can be kept simple:
-
-- One standalone Artist Charts page
-- A small set of major genres
-- Artists grouped by follower ranges
-- Weekly rankings
-- Top 100 artists in each group
-- Ranking based mainly on plays and likes
-- Current rank and movement since the previous week
-- A chart badge on the artist profile
-- Notifications for entering the chart, moving up, and reaching a personal best
-
-We do not need in the first version:
-
-- Complicated rewards
-- Detailed analytics
-- Daily and monthly versions
-- Hundreds of genres
-- Manual artist applications
-- A major redesign of discovery or profiles
-
-The profile integration can be simple: show a badge with the current rank, and link it to the standalone chart page.
-
-## Summary
-
-Artist Charts give creators a visible sense of progress.
-
-Instead of only seeing plays, likes, or follower count, artists can see where they rank in their genre, follower tier, and time period.
-
-For example:
-
-#8 Alternative Rock Artist This Week
-#3 in the 1K–10K Follower Tier
-
-This can make growth feel more real and more motivating.
-
-The most important part is fairness. If smaller artists are grouped into their own tiers and charts reward recent plays and likes, the feature can help more creators feel discovered and recognized.
