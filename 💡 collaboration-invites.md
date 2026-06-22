@@ -4,7 +4,7 @@ Not sure
 
 ## UI drafts
 
-![alt text](Images/collaboratio.png)
+![alt text](Images/collaboration.png)
 
 # Feature idea: Open Collaboration Invites
 
