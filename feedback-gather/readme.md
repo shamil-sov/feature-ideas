@@ -6,6 +6,8 @@ Yes — I’d add this as part of the platform opportunity.
 
 # Feature idea: In-App Feature Feedback
 
+![alt text](image.png)
+
 ## Problem
 
 When we launch a new feature, we usually measure success through analytics.

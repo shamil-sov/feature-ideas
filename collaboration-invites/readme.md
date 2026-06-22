@@ -39,6 +39,7 @@ The artist is not forced to define a specific part or section. They describe the
 
 ## How it works
 
+
 The artist creates a collaboration request from their project or track.
 
 They provide:
