@@ -6,6 +6,8 @@ Probably
 
 ![alt text](Images/help-me-choose.png)
 
+![alt text](Images/help-me-choose-feed.png)
+
 # Feature idea: Help Me Choose
 
 ## Basic idea
@@ -110,16 +112,6 @@ The result should be simple and easy to understand.
 The creator should quickly see which version people preferred and why.
 
 
-## Relationship to Crowd Review
-
-BandLab already has or had Crowd Review described as a way to submit a finished or unfinished song to targeted listeners and receive ratings, comments, and a detailed report through ReverbNation.
-
-But based on the notes, Crowd Review is disabled.
-
-Help Me Choose would be simpler and more lightweight.
-
-Instead of sending one track for a full review, the creator asks one specific comparison question about two versions.
-
 ## Monetization opportunities
 
 This feature could be monetized in two ways.
@@ -143,8 +135,6 @@ A simple reward could be a profile badge such as:
 
 `Helped 25 creators`
 
-## Risks / things to be careful about
+## 💡 Integration with Feedback Exchange
 
-The comparison should be fair.
-
-Both versions should use the same part of the song, otherwise voters may choose based on the section rather than the version quality.
+This feature can be combined with Feedback Exchange feed too
