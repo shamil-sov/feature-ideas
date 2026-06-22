@@ -2,12 +2,6 @@
 
 Probably
 
-## UI drafts
-
-<!-- <img src="../Images/help-me-choose.png" height="400"> -->
-
-<img src="../Images/help-me-choose-feed.png" height="500">
-
 # Feature idea: Help Me Choose
 
 ## Basic idea
