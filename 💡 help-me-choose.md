@@ -135,11 +135,13 @@ This needs more thinking, especially around what “global” should actually me
 
 ## Voter rewards
 
-Maybe users who listen and vote could receive some kind of small reward.
+Voters may naturally enjoy this feature because it is quick, social, and gives them influence over a creator’s decision.
 
-This could encourage more people to participate and give feedback.
+However, small rewards can help increase participation, especially for requests shown beyond the creator’s followers.
 
-The reward does not need to be big. The main point is to make voting feel valuable.
+A simple reward could be a profile badge such as:
+
+`Helped 25 creators`
 
 ## Risks / things to be careful about
 
