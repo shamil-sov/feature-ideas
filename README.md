@@ -1,3 +1,3 @@
-# Feature ideas
+# Feature Ideas
 
-Bandlab feature ideas
+Next quarter feature proposals for BandLab. Ideas for the team to discuss and vote on.
