@@ -33,10 +33,6 @@ The request can be anything:
 
 The artist is not forced to define a specific part or section. They describe their need in their own words, and others respond however makes sense.
 
-## UI
-
-<img src="../Images/collaboration-invite-2v.png" height="500">
-
 ## How it works
 
 <img src="image.png" height="500">
