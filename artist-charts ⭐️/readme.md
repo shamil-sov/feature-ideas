@@ -1,6 +1,6 @@
 ## Can this feature be a separate/standalone MVP?
 
-🟢 Yes.
+Yes
 
 ### UI and refs
 
