@@ -105,3 +105,7 @@ Responders get:
 This is also useful for users who want to create but do not know where to start. 
 
 An open request gives them something to respond to without starting from zero.
+
+
+## Monetizations
+TBD
