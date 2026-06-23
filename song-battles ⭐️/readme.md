@@ -25,7 +25,9 @@ BandLab could have recurring track competitions for each genre, for example:
 
 Hip-Hop, Rock, Pop, Electronic, R&B, etc.
 
-Each competition runs for a limited time, for example 4–5 days, or maybe weekly.
+Each competition runs for a short time, for example 1–2 days.
+
+A week would probably feel too long and make the battle stale.
 
 Creators submit tracks into a genre competition. Other users vote between tracks from the same genre. At the end of the competition, the top tracks become finalists or winners.
 
@@ -88,7 +90,7 @@ Example leaderboard item:
 
 The competition should not feel endless.
 
-After the voting period ends, for example after 4–5 days, voting closes and the final results are shown.
+After the voting period ends, for example after 1–2 days, voting closes and the final results are shown.
 
 The final page could show:
 
@@ -106,14 +108,14 @@ Users are not just voting forever. They are helping decide the final results.
 
 ## Seasons
 
-Competitions could reset every week. This gives new tracks a chance to rise instead of letting old winners stay at the top forever.
+Competitions could reset every 1–2 days. This gives new tracks a chance to rise instead of letting old winners stay at the top for too long.
 
 Example:
 
-- Hip-Hop Competition — Week 1
-- Hip-Hop Competition — Week 2
-- Rock Competition — June
-- Electronic Competition — July
+- Hip-Hop Battle — 1-day round
+- Hip-Hop Battle — 2-day round
+- Rock Battle — 1-day round
+- Electronic Battle — 2-day round
 
 Each new season gives creators another reason to come back and submit again.
 
@@ -162,7 +164,7 @@ It also gives users another reason to keep voting even after they have already s
 
 For example:
 
-- Top voters this week
+- Top voters this round
 - Most active voters in Hip-Hop
 - Most active voters in Rock
 
