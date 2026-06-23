@@ -47,6 +47,28 @@ They provide:
 
 The request is published as a card and appears in a collaboration feed.
 
+
+## Collaboration feed
+
+<img src="image-3.png" height="500">
+
+BandLab could have a dedicated feed for active collaboration requests.
+
+Users open this feed with intent — they want to contribute or find creative opportunities.
+
+They can browse and filter by:
+
+- What is needed: vocalist, rapper, producer, guitarist, mixing, etc.
+- Genre: Hip-Hop, R&B, Rock, Pop, Electronic, etc.
+- Activity: newest, most responses
+
+Example cards:
+
+> "Looking for a vocalist for this R&B beat"
+> "Open to anyone flipping this loop"
+> "Need someone to take this acoustic idea somewhere"
+> "Want a rapper on this — any style welcome"
+
 ## Responding
 
 <img src="image-1.png" height="500">
@@ -71,28 +93,6 @@ Submissions are visible to everyone.
 This gives responders exposure even if they are not accepted, and lets the community discover new talent through these contributions.
 
 Other users can listen, like, comment, or follow the person who responded.
-
-
-## Collaboration feed
-
-<img src="image-3.png" height="500">
-
-BandLab could have a dedicated feed for active collaboration requests.
-
-Users open this feed with intent — they want to contribute or find creative opportunities.
-
-They can browse and filter by:
-
-- What is needed: vocalist, rapper, producer, guitarist, mixing, etc.
-- Genre: Hip-Hop, R&B, Rock, Pop, Electronic, etc.
-- Activity: newest, most responses
-
-Example cards:
-
-> "Looking for a vocalist for this R&B beat"
-> "Open to anyone flipping this loop"
-> "Need someone to take this acoustic idea somewhere"
-> "Want a rapper on this — any style welcome"
 
 ## Why users would respond
 
