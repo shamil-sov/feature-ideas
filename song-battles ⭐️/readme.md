@@ -13,11 +13,7 @@
 
 ## Draft UIs
 
-<img src="image-1.png" width="400" />
-
 ![alt text](image-2.png)
-
-<img src="image-3.png" width="400">
 
 # Song battles
 
