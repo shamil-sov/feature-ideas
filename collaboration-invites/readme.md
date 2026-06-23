@@ -108,4 +108,8 @@ An open request gives them something to respond to without starting from zero.
 
 
 ## Monetizations
-TBD
+? Boost - 
+- After publishing a request, the artist can boost it so it appears more often in relevant discovery surfaces.
+- users can choose the audience they want to reach
+
+? Limit on number of collaboration requests - Free users can have only 1 active collaboration request
