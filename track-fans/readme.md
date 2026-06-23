@@ -48,7 +48,6 @@ The ranking could be based on signals like:
 - Plays
 - Likes
 - Early discovery
-- Repeat listening
 - Following the artist
 
 To qualify, users may need to do useful actions such as:
@@ -59,6 +58,14 @@ To qualify, users may need to do useful actions such as:
 - Have a profile picture
 
 This makes the leaderboard more meaningful and encourages valuable platform actions.
+
+## Why creators would care
+
+Creators can see who their real fans are.
+
+Not just anonymous play counts, but actual people who listen
+
+This can make creators feel that BandLab gives them a real fanbase
 
 ## Why users would care
 
@@ -78,14 +85,6 @@ For example:
 
 This can also make their own profile more discoverable.
 
-## Why creators would care
-
-Creators can see who their real fans are.
-
-Not just anonymous play counts, but actual people who listen, replay, like, and support their music.
-
-This can make creators feel that BandLab gives them a real fanbase, not just upload tools and vanity metrics.
-
 ## Expected value
 
 This could improve:
@@ -100,21 +99,4 @@ This could improve:
 
 ## Monetization
 
-The public fan list should probably be free because it creates more social value and discovery.
-
-A possible paid version could be deeper fan analytics for membership users.
-
-For example:
-
-- Free: public fan leaderboard on the track page
-- Paid: full fan list, deeper fan insights, repeat listener trends, history
-
-## Summary
-
-Track Fans turns listening into recognition.
-
-Listeners get status for supporting a track.
-
-Creators get a clearer view of their real fans.
-
-The feature can increase listening, likes, follows, profile discovery, sharing, and creator retention.
+Free
