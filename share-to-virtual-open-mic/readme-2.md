@@ -14,7 +14,11 @@ After a creator publishes a track, add a new action to the existing post-publish
 
 > Share in Virtual Open Mic
 
+## What problem does it solve?
+
 Creators already have tools for publishing music. What they often need next is an audience.
+
+Publishing can feel empty when a track gets no listens or reactions. This action gives creators a clear next step and connects new tracks with people who are ready to discover music.
 
 ## How it works
 
@@ -26,13 +30,17 @@ Creators already have tools for publishing music. What they often need next is a
 
 This keeps the feature lightweight because it connects two existing experiences instead of creating a separate flow.
 
-## Why it could work
+## Why the timing could work
 
-Publishing can feel empty when a track gets no listens or reactions. Virtual Open Mic gives creators a better chance to reach people who are ready to discover new music.
+The moment after publishing is a natural time to suggest Virtual Open Mic: the creator has finished the track and is deciding what to do next.
 
-The moment after publishing is also a natural time to suggest it: the creator has finished the track and is deciding what to do next.
+It also makes Virtual Open Mic easier to discover without adding another publishing flow.
 
-This could lead to:
+## Why it could help retention
+
+If creators receive listens, reactions, or comments soon after publishing, they have a reason to return and see what happened. That response can make publishing feel more rewarding and encourage them to share another track.
+
+## Where the biggest impact could be
 
 - More awareness of Virtual Open Mic
 - More tracks shared there

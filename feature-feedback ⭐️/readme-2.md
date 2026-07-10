@@ -18,7 +18,7 @@ Occasionally ask users for quick feedback after they use a feature:
 
 If they choose a negative rating, they can select a reason and optionally add a short comment.
 
-## The problem
+## What problem does it solve?
 
 Analytics show what users did, but not always how they felt about it.
 
@@ -28,13 +28,7 @@ This matters most for experimental and AI-powered features, where the experience
 
 ## When it appears
 
-The prompt can appear after a feature finishes or reaches an important point, for example:
-
-- AI video generation
-- AI profile summary generation
-- AI hashtag generation
-- A new onboarding flow
-- An experimental feature
+The prompt can appear after an AI video, profile summary, hashtag generation, new onboarding flow, or another experimental feature.
 
 Feedback should always be quick, optional, and shown occasionally rather than after every use.
 
@@ -61,15 +55,22 @@ Each entry could include:
 
 An internal feedback page can show totals and let teams filter by feature, rating, date, user segment, and platform. Teams could also export results for deeper analysis.
 
-## Why it could work
+## Why it matters to BandLab
 
-Combining feedback with analytics can reveal:
+Combining feedback with analytics shows perceived quality, usefulness, common frustrations, and problems that usage numbers alone cannot explain. This helps teams improve new features faster.
 
-- Perceived quality
-- Whether a feature is actually useful
-- Common frustrations
-- Problems that usage numbers alone do not explain
-- Opportunities to improve new features faster
+## Why it could help retention
+
+The effect on retention is indirect but important. If teams can quickly spot disappointing, confusing, or low-quality experiences, they can improve them before those problems push users away.
+
+For AI features, this also helps separate “the feature ran successfully” from “the user liked the result.”
+
+## Where the biggest impact could be
+
+- AI and experimental features where quality is subjective
+- New flows that need fast feedback after launch
+- Faster discovery of common user frustrations
+- Better product decisions by combining sentiment with usage data
 
 ## First version
 

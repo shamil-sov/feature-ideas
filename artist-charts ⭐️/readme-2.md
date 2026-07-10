@@ -23,6 +23,12 @@ The goal is to:
 - Make artist growth easier to see
 - Give creators a reason to keep publishing and return to BandLab
 
+## What problem does it solve?
+
+Many creators publish music without knowing whether they are making meaningful progress. Plays, likes, and follower counts can move slowly, and those numbers do not show how an artist compares with similar creators.
+
+Discovery can also favor artists who already have large audiences. Charts turn recent progress into a visible achievement and give listeners another way to find smaller, active artists.
+
 ## How ranking works
 
 Rankings can use a flexible mix of signals, such as:
@@ -124,12 +130,24 @@ The main chart experience should remain free. Members could get deeper insights,
 - Comparisons with other artists in the same league
 - Longer-term performance trends, such as a 90-day view
 
-## Why it could work
+## Why it could help retention
 
-Artist Charts can help in three main areas:
+Artists have a reason to come back and check:
 
-- **Creator motivation and retention:** artists have a clear sign of progress and a reason to check back.
-- **Artist discovery:** listeners can find active and growing artists instead of only the biggest accounts.
-- **Publishing and promotion:** rankings give artists a goal and something worth sharing.
+- Their current position
+- Whether they moved up or down
+- Their highest rank
+- Who is ranked around them
+- What they need to do to keep growing
+- New badges, milestones, and chart updates
+
+Moving from #42 to #25 can feel more motivating than gaining a few likes without context. Notifications and regular updates turn that progress into small reasons to return, publish again, and promote a track.
+
+## Where the biggest impact could be
+
+- Creator motivation and retention
+- Discovery of smaller and growing artists
+- More publishing and promotion activity
+- More sharing outside BandLab through badges and ranking cards
 
 The charts need to update often enough to feel alive. They should reward recent, real engagement and give artists in every league a realistic chance to appear.

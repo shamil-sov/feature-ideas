@@ -18,17 +18,15 @@ The BandLab subreddit already uses a “Collab Search” tag for posts such as �
 
 ## The idea
 
-Let artists publish an open request when they want help with a project.
+Let artists publish an open request when they want help with a project. They might need a vocalist, rapper, producer, remix, or simply someone to take an unfinished idea further.
 
-They can describe what they need in their own words:
+The request stays flexible. Artists explain what they need in their own words instead of following one fixed collaboration format.
 
-- Looking for a vocalist
-- Want a rapper on this beat
-- Need a producer to develop this idea
-- Open to remixes or loop flips
-- Looking for someone to take an unfinished track further
+## What problem does it solve?
 
-The request stays flexible. Artists do not have to define an exact section or force collaborators into one response format.
+Artists often need help with a real track but have no structured way to explain what they need and reach the right people. General “Who wants to collab?” posts lack project context and are quickly lost in busy feeds.
+
+At the same time, people who want to contribute have no easy place to find active projects that match their skills, genre, or interests.
 
 ## Creating a request
 
@@ -42,16 +40,9 @@ The request is published as a card in a dedicated Collaboration Feed.
 
 ## Collaboration Feed
 
-People open this feed because they want to contribute or find something to work on.
+People open this feed because they want to contribute or find something to work on. They can filter by role, genre, tags, newest, or most active.
 
-They can browse or filter requests by:
-
-- Role, such as vocalist, rapper, producer, guitarist, or mixing engineer
-- Genre
-- Newest or most active
-- Other useful tags
-
-Each card lets people preview the audio and understand what the artist is looking for before opening the full request.
+Each card lets them preview the audio and understand the request before opening it.
 
 ## Responding
 
@@ -76,18 +67,23 @@ Responses could be public so other people can listen, like, comment, and discove
 
 This is still an open choice: some requests may work better with private responses, or the artist may need control over whether submissions are public.
 
-## Why it could work
+## Why users would take part
 
-Open requests help artists find the right collaborators around a real project, instead of posting a general “Who wants to collab?” message.
+Request owners get relevant help around a real project. Responders get a clear starting point, exposure, portfolio material, new connections, and a path to becoming an official collaborator.
 
-Responders get:
+This is especially useful for people who want to create without starting from an empty project.
 
-- A clear starting point
-- Exposure and portfolio material
-- A chance to meet other artists
-- A path to becoming an official collaborator
+## Why it could help retention
 
-This is especially useful for people who want to create but do not want to start from an empty project.
+Owners return to check submissions and continue conversations. Responders return to follow their work and see whether they were invited. Successful matches create a longer loop as both artists keep working on the project inside BandLab.
+
+## Where the biggest impact could be
+
+- More successful collaborations around real projects
+- More unfinished ideas turning into completed tracks
+- Better discovery of creators by role, genre, and skill
+- More messaging, project activity, and repeat visits
+- More exposure for people who respond publicly
 
 ## Monetization ideas
 
