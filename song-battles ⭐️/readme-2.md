@@ -25,12 +25,6 @@ Song Battles are short, recurring track competitions by genre, such as Hip-Hop, 
 
 Creators submit a track, listeners compare tracks from the same genre, and the best-performing tracks become finalists or winners. The goal is to make music discovery more fun while giving every participant a fair chance to be heard.
 
-## What problem does it solve?
-
-Publishing a track does not guarantee that anyone will hear it. General feeds can favor creators who already have an audience, while smaller artists have little feedback on how their music compares.
-
-Song Battles create a clear reason for people to listen. The vote-to-submit exchange also makes sure every new submission brings more voting activity for other creators.
-
 ## How it works
 
 Before submitting a track, a creator must vote in a set number of battles. For example, ten votes unlock one submission.
@@ -109,17 +103,15 @@ This gives listeners status, helps them discover artists, and encourages continu
 
 A battle page could include comments where people discuss the round, react to finalists, and support creators.
 
-## Why it could help retention
+## Why it matters
 
-Short rounds create several reasons to return: unlock a submission, follow a live ranking, vote again, see the final result, and join the next round.
+Publishing a track does not guarantee that anyone will hear it. General feeds can favor established creators, while smaller artists get little feedback on how their music compares.
 
-Rank movement, finalists, rewards, and voter recognition make participation feel active instead of ending when a track is uploaded.
+Song Battles could:
 
-## Where the biggest impact could be
-
-- More listening and music discovery
-- More creator participation
-- Repeat visits during each round
-- More visibility for tracks and profiles
-- More community interaction
-- A stronger reason to publish and promote music
+- Create more listening through the vote-to-submit exchange
+- Give smaller artists a fairer chance to be heard
+- Make music discovery more active and fun
+- Bring users back to unlock submissions, follow rankings, see results, and join new rounds
+- Increase visibility for tracks, profiles, voters, and finalists
+- Encourage more publishing, promotion, and community interaction

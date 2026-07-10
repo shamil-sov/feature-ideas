@@ -14,12 +14,6 @@ Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas
 
 Give BandLab users one place to suggest improvements, vote for ideas, discuss them, and follow their progress.
 
-## What problem does it solve?
-
-Today, feature requests are spread across social media, support tickets, Reddit, comments, and direct messages. This makes it hard to see what users want most or how much demand an idea has.
-
-Users also have no clear way to know whether BandLab has seen an idea or plans to act on it. A dedicated space brings those conversations together and makes the process easier to follow.
-
 ## Browsing requests
 
 Users can filter requests by areas such as Studio, Collaboration, Discovery, Profile, Monetization, AI tools, Mobile app, or Community. They can sort by most voted, trending, or newest.
@@ -50,21 +44,16 @@ Possible statuses:
 - Planned
 - Shipped
 
-## Why it matters to BandLab
+## Why it matters
 
-Analytics show what users already do. Feature Requests show what they wish they could do.
+Feature requests are spread across social media, support tickets, Reddit, comments, and direct messages. This makes demand hard to measure, and users cannot easily tell whether BandLab has seen an idea.
 
-Votes reveal demand, while comments explain the need behind it. Together, they give product teams a structured signal that can support research and prioritization.
+A dedicated Feature Requests space could:
 
-Votes should be treated as one product signal, not as an automatic promise that the most-voted idea will be built.
+- Give product teams clearer demand and better research input
+- Use comments to explain the need behind each vote
+- Reduce requests scattered across support and social channels
+- Give users one place to follow ideas and status changes
+- Build trust through clearer communication about planned and shipped work
 
-## Why it could help retention
-
-This is more likely to improve trust and long-term engagement than daily retention. Users return to follow ideas, join discussions, and see status changes. Acknowledging feedback—even when an idea is not planned—can make people feel heard and more invested in BandLab.
-
-## Where the biggest impact could be
-
-- Clearer product demand and better research input
-- Fewer requests scattered across support and social channels
-- Better communication around planned and shipped work
-- More trust and transparency between users and BandLab
+Votes should remain one product signal, not an automatic promise that the most-voted idea will be built.

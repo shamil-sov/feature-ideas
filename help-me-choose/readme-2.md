@@ -21,12 +21,6 @@ For example:
 - Which vocal take has better energy?
 - Which version fits the song better?
 
-## What problem does it solve?
-
-Creators often make this decision alone, ask friends in chat, or use a general poll. This feature gives music comparisons a focused listening and feedback flow.
-
-It helps creators get a clearer answer without sharing full projects manually or collecting unstructured opinions from different conversations.
-
 ## Creating a request
 
 A creator opens a saved project or revision and:
@@ -91,19 +85,18 @@ Voting is quick, social, and gives listeners some influence over a creator’s d
 - Helpful Listener or genre-based badges
 - A history of creators they helped
 
-## Why it could help retention
+## Why it matters
 
-Creators return while votes are coming in and again when the final result is ready. Because music-making involves many choices—mixes, vocals, hooks, beats, and arrangements—the feature can be useful more than once during the same project.
+Creators often make difficult decisions alone, ask friends in chat, or use a general poll that is not designed for comparing music.
 
-Voters also have reasons to return through the discovery feed, progress, streaks, and recognition for helping other creators.
+Help Me Choose could:
 
-## Where the biggest impact could be
-
-- Faster and more confident creative decisions
-- More useful feedback between creators and listeners
-- More listening and interaction in the community
-- A stronger identity and reward loop for helpful voters
-- Paid reach or membership value for creators who want more responses
+- Make creative decisions faster and more confident
+- Turn scattered opinions into structured, useful feedback
+- Create more listening and interaction between creators and listeners
+- Bring creators back while votes arrive and when results are ready
+- Give helpful voters progress, recognition, and reasons to take part again
+- Create membership or paid-reach value for creators who want more responses
 
 ## Monetization ideas
 

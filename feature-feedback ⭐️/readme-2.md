@@ -18,14 +18,6 @@ Occasionally ask users for quick feedback after they use a feature:
 
 If they choose a negative rating, they can select a reason and optionally add a short comment.
 
-## What problem does it solve?
-
-Analytics show what users did, but not always how they felt about it.
-
-For example, analytics may show that an AI video was generated successfully. They do not show whether the video matched the song or whether the user found it useful.
-
-This matters most for experimental and AI-powered features, where the experience may work technically but still produce a disappointing result.
-
 ## When it appears
 
 The prompt can appear after an AI video, profile summary, hashtag generation, new onboarding flow, or another experimental feature.
@@ -55,22 +47,17 @@ Each entry could include:
 
 An internal feedback page can show totals and let teams filter by feature, rating, date, user segment, and platform. Teams could also export results for deeper analysis.
 
-## Why it matters to BandLab
+## Why it matters
 
-Combining feedback with analytics shows perceived quality, usefulness, common frustrations, and problems that usage numbers alone cannot explain. This helps teams improve new features faster.
+Analytics show what users did, but not always how they felt. An AI video may be generated successfully while still feeling irrelevant or disappointing.
 
-## Why it could help retention
+In-App Feature Feedback could:
 
-The effect on retention is indirect but important. If teams can quickly spot disappointing, confusing, or low-quality experiences, they can improve them before those problems push users away.
-
-For AI features, this also helps separate “the feature ran successfully” from “the user liked the result.”
-
-## Where the biggest impact could be
-
-- AI and experimental features where quality is subjective
-- New flows that need fast feedback after launch
-- Faster discovery of common user frustrations
-- Better product decisions by combining sentiment with usage data
+- Separate technical success from user satisfaction
+- Show perceived quality, usefulness, and common frustrations
+- Help teams improve AI, experimental features, and new flows faster
+- Add user sentiment to existing usage data
+- Catch poor experiences before they make users stop using a feature
 
 ## First version
 

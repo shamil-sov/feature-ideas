@@ -23,12 +23,6 @@ The goal is to:
 - Make artist growth easier to see
 - Give creators a reason to keep publishing and return to BandLab
 
-## What problem does it solve?
-
-Many creators publish music without knowing whether they are making meaningful progress. Plays, likes, and follower counts can move slowly, and those numbers do not show how an artist compares with similar creators.
-
-Discovery can also favor artists who already have large audiences. Charts turn recent progress into a visible achievement and give listeners another way to find smaller, active artists.
-
 ## How ranking works
 
 Rankings can use a flexible mix of signals, such as:
@@ -130,24 +124,16 @@ The main chart experience should remain free. Members could get deeper insights,
 - Comparisons with other artists in the same league
 - Longer-term performance trends, such as a 90-day view
 
-## Why it could help retention
+## Why it matters
 
-Artists have a reason to come back and check:
+Many creators publish music without knowing whether they are making meaningful progress. Plays, likes, and follower counts move slowly and do not show how an artist compares with similar creators. Discovery can also favor artists who already have large audiences.
 
-- Their current position
-- Whether they moved up or down
-- Their highest rank
-- Who is ranked around them
-- What they need to do to keep growing
-- New badges, milestones, and chart updates
+Artist Charts could:
 
-Moving from #42 to #25 can feel more motivating than gaining a few likes without context. Notifications and regular updates turn that progress into small reasons to return, publish again, and promote a track.
-
-## Where the biggest impact could be
-
-- Creator motivation and retention
-- Discovery of smaller and growing artists
-- More publishing and promotion activity
-- More sharing outside BandLab through badges and ranking cards
+- Turn recent progress into a clear and achievable goal
+- Give creators recognition through ranks, movement, badges, and personal bests
+- Help listeners discover smaller and growing artists
+- Give artists reasons to return for chart updates and milestones
+- Encourage more publishing, promotion, and sharing outside BandLab
 
 The charts need to update often enough to feel alive. They should reward recent, real engagement and give artists in every league a realistic chance to appear.

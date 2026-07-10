@@ -22,12 +22,6 @@ Let artists publish an open request when they want help with a project. They mig
 
 The request stays flexible. Artists explain what they need in their own words instead of following one fixed collaboration format.
 
-## What problem does it solve?
-
-Artists often need help with a real track but have no structured way to explain what they need and reach the right people. General “Who wants to collab?” posts lack project context and are quickly lost in busy feeds.
-
-At the same time, people who want to contribute have no easy place to find active projects that match their skills, genre, or interests.
-
 ## Creating a request
 
 An artist starts from a project or track and adds:
@@ -67,23 +61,17 @@ Responses could be public so other people can listen, like, comment, and discove
 
 This is still an open choice: some requests may work better with private responses, or the artist may need control over whether submissions are public.
 
-## Why users would take part
+## Why it matters
 
-Request owners get relevant help around a real project. Responders get a clear starting point, exposure, portfolio material, new connections, and a path to becoming an official collaborator.
+Artists often need help with a real track but have no structured way to explain what they need and reach the right people. General “Who wants to collab?” posts lack context and quickly disappear in busy feeds. People who want to contribute also have no easy way to find suitable projects.
 
-This is especially useful for people who want to create without starting from an empty project.
+Open Collaboration Requests could:
 
-## Why it could help retention
-
-Owners return to check submissions and continue conversations. Responders return to follow their work and see whether they were invited. Successful matches create a longer loop as both artists keep working on the project inside BandLab.
-
-## Where the biggest impact could be
-
-- More successful collaborations around real projects
-- More unfinished ideas turning into completed tracks
-- Better discovery of creators by role, genre, and skill
-- More messaging, project activity, and repeat visits
-- More exposure for people who respond publicly
+- Help artists find relevant collaborators around a real project
+- Give responders a starting point, exposure, and portfolio material
+- Turn more unfinished ideas into completed tracks
+- Improve creator discovery by role, genre, and skill
+- Create repeat visits through submissions, conversations, invites, and ongoing project work
 
 ## Monetization ideas
 

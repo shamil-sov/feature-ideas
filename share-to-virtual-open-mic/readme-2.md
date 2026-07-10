@@ -14,12 +14,6 @@ After a creator publishes a track, add a new action to the existing post-publish
 
 > Share in Virtual Open Mic
 
-## What problem does it solve?
-
-Creators already have tools for publishing music. What they often need next is an audience.
-
-Publishing can feel empty when a track gets no listens or reactions. This action gives creators a clear next step and connects new tracks with people who are ready to discover music.
-
 ## How it works
 
 1. The creator publishes a track.
@@ -30,20 +24,15 @@ Publishing can feel empty when a track gets no listens or reactions. This action
 
 This keeps the feature lightweight because it connects two existing experiences instead of creating a separate flow.
 
-## Why the timing could work
+## Why it matters
 
-The moment after publishing is a natural time to suggest Virtual Open Mic: the creator has finished the track and is deciding what to do next.
+Creators already have tools for publishing music. What they often need next is an audience. Publishing can feel empty when a track gets no listens or reactions.
 
-It also makes Virtual Open Mic easier to discover without adding another publishing flow.
+Sharing to Virtual Open Mic from the post-publish screen could:
 
-## Why it could help retention
-
-If creators receive listens, reactions, or comments soon after publishing, they have a reason to return and see what happened. That response can make publishing feel more rewarding and encourage them to share another track.
-
-## Where the biggest impact could be
-
-- More awareness of Virtual Open Mic
-- More tracks shared there
-- More listens, reactions, and comments
-- A more rewarding publishing experience
-- More creators returning to see what happened
+- Give creators a clear next step at the right moment
+- Make Virtual Open Mic easier to discover
+- Bring more tracks, listens, reactions, and comments into the experience
+- Make publishing feel more rewarding
+- Give creators a reason to return and see what happened
+- Encourage creators to publish and share again
