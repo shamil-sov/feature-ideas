@@ -32,8 +32,6 @@ Rankings can use a flexible mix of signals, such as:
 - Play-to-like ratio
 - Recent growth in plays, likes, and other engagement
 
-The mix can change as we learn what produces useful and fair charts. Recent activity should matter more than lifetime popularity, and suspicious activity should not count.
-
 ## Charts
 
 People can explore charts by genre, time period, and artist league.
@@ -46,12 +44,12 @@ Time periods could include:
 - This week
 - This month
 
-Chart types could include:
+These are different ways to view a chart, not artist leagues:
 
-- Top Artists
-- Rising Artists
-- Biggest Movers
-- New Entries
+- **Top Artists** — artists with the strongest overall performance for the selected genre and time period
+- **Rising Artists** — artists whose plays and engagement are growing fastest
+- **Biggest Movers** — artists who gained the most chart positions since the previous period
+- **New Entries** — artists appearing in that chart for the first time or returning after an absence
 
 Examples:
 
@@ -72,6 +70,8 @@ A single global chart would probably be dominated by artists who already have la
 
 For example, an artist with 500 followers competes with artists at a similar level, not with an artist who has 500,000 followers.
 
+This gives more artists a realistic goal and helps listeners discover emerging creators at different stages of growth.
+
 Use **league** throughout the product. League names should not reuse chart labels such as **Rising**, because “Rising Artists” is already a type of chart.
 
 ## Rank and progress
@@ -84,7 +84,7 @@ Charts show how an artist is doing and how their position has changed:
 - Highest Rank
 - Ranking history and performance trends
 
-This makes progress feel more meaningful than watching plays, likes, or followers change slowly.
+Raw metrics show totals, but not whether an artist is gaining momentum. Rank movement turns small changes into visible progress and gives creators a clear reason to check the next update.
 
 ## Profile badge
 
@@ -93,7 +93,7 @@ Ranked artists can have a badge on their profile, for example:
 > #8 Alternative Rock Artist This Week<br>
 > #3 in the 1,000–9,999 follower league
 
-Tapping the badge opens the related chart, giving the artist recognition and helping listeners discover similar creators.
+The badge makes chart success visible outside the chart itself. It gives the artist recognition on their profile, while tapping it opens a path to similar creators in the same chart.
 
 ## Notifications
 
@@ -105,7 +105,7 @@ BandLab can notify artists about meaningful chart moments:
 - You reached your highest rank so far.
 - The charts have been updated. Check your new rank.
 
-These moments can bring creators back and encourage them to publish, promote their music, and engage with listeners.
+Artists may not check every chart update on their own. Notifications bring them back for meaningful moments and can encourage them to publish, promote their music, and engage with listeners. They should focus on milestones so they feel rewarding rather than noisy.
 
 ## Sharing
 
@@ -113,7 +113,7 @@ Artists can share their rank outside BandLab, for example:
 
 > I’m the #8 Alternative Rock Artist this week on BandLab.
 
-This gives artists something to celebrate and can bring more people to BandLab.
+A ranking gives artists something specific to celebrate. Sharing can bring outside listeners to the artist’s profile and create organic promotion for BandLab.
 
 ## Premium chart insights
 
@@ -123,6 +123,8 @@ The main chart experience should remain free. Members could get deeper insights,
 - Listener demographics and regions
 - Comparisons with other artists in the same league
 - Longer-term performance trends, such as a 90-day view
+
+This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
 
 ## Why it matters
 
