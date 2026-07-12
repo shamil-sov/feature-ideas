@@ -12,7 +12,7 @@ Give BandLab users one place to suggest udeasm improvements, vote for ideas, dis
 
 Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
 
-![alt text](image-1.png)
+<img src="image-1.png" alt="alt text" width="500">
 
 ## Why it matters
 
