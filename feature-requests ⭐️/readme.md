@@ -1,52 +1,38 @@
-## Can this feature be a separate/standalone MVP?
+# Feature Requests
 
-Yes
+## UI and reference
 
-## Refs
+Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas/ct-p/newideas) page.
 
-- https://community.spotify.com/t5/Ideas/ct-p/newideas
+<!-- ![Feature Requests page with ideas, votes, and comments](image.png) -->
 
-<img src="image.png" alt="Feature Requests menu option" height="500" />
+## The idea
 
-# Feature idea: Feature Requests
+Give BandLab users one place to suggest udeasm improvements, vote for ideas, discuss them.
 
-## Problem
+Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
 
-BandLab users often have ideas about what should be improved, added, or changed, but this feedback is scattered across social media, support requests, Reddit, comments, and direct messages.
+<img src="image-1.png" alt="alt text" width="500">
 
-Because there is no dedicated place for feature requests, it is hard to understand what users want most and which ideas have real demand.
+## Why it matters
 
-## Basic idea
+Feature requests are spread across social media, support tickets, Reddit, comments, and direct messages. This makes demand hard to measure, and users cannot easily tell whether BandLab has seen an idea.
 
-Create a dedicated Feature Requests page where users can submit product ideas, vote for requests from others, and comment with extra context.
+A dedicated Feature Requests space could:
 
-Users can:
+- Give product teams clearer demand and better research input
+- Use comments to explain the need behind each vote
+- Reduce requests scattered across support and social channels
+- Give users one place to follow ideas and status changes
+- Build trust through clearer communication about planned and shipped work
 
-- Share a feature request
-- Vote for requests they want
-- Comment on why it matters
-- Follow request updates
+Votes should remain one product signal, not an automatic promise that the most-voted idea will be built.
 
-## How it works
+## Browsing requests
 
-A user opens the Feature Requests page and browses existing requests.
+Users can filter requests by areas such as Studio, Collaboration, Discovery, Profile, Monetization, AI tools, Mobile app, or Community. They can sort by most voted, trending, or newest.
 
-They can filter by category, for example:
-
-- Studio
-- Collaboration
-- Discovery
-- Profile
-- Monetization
-- AI tools
-- Mobile app
-- Community
-
-They can sort by:
-
-- Most voted
-- Newest
-- Trending
+Each request shows its title, author, vote count, comment count, category, and current status.
 
 ## Submitting a request
 
@@ -57,39 +43,17 @@ A request includes:
 - Category
 - Optional screenshot or example
 
-Before posting, BandLab can suggest similar requests to reduce duplicates.
+Before publishing, BandLab can suggest similar requests. This helps users support an existing idea instead of creating a duplicate.
 
-## Voting
+## Voting and discussion
 
-Other users vote for requests they want.
+Users can vote for requests they want and comment with extra context. Votes show demand, while comments help explain the real problem and how people expect the feature to work.
 
-The vote count shows demand, while comments explain the actual user need behind the request.
+Users can also follow a request and receive updates when its status changes.
 
-Requests can also have simple statuses like:
+Possible statuses:
 
 - New
 - Under review
 - Planned
 - Shipped
-
-## Why users would participate
-
-Users get a clear place to share ideas and feel that they can influence the product.
-
-For example, a user can submit a request, see other people vote for it, and follow whether BandLab reviews or ships it.
-
-## Why this is valuable for BandLab
-
-This gives BandLab a structured signal for product demand.
-
-Analytics show what users do. Feature Requests show what users wish they could do.
-
-## Expected value
-
-This could help with:
-
-- Better understanding of user demand
-- Better prioritization signals
-- Fewer scattered feature requests
-- More transparent product feedback
-- More trust between users and BandLab
