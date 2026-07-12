@@ -89,6 +89,8 @@ Ranked artists can have a badge on their profile, for example:
 
 The badge makes chart success visible on the artist’s profile. Showing when it was updated tells visitors that the rank is current. Tapping the badge opens the related chart.
 
+<img src="artist-profile-chart-badge.png" alt="BandLab artist profile with an Artist Charts badge" width="400" />
+
 ## Notifications
 
 BandLab can notify artists about meaningful chart moments:
@@ -99,6 +101,8 @@ BandLab can notify artists about meaningful chart moments:
 - The charts have been updated. Check your new rank.
 
 Artists may not check every chart update on their own. Notifications bring them back for meaningful moments and can encourage them to publish, promote their music, and engage with listeners. They should focus on milestones so they feel rewarding rather than noisy.
+
+<img src="artist-charts-push-notification.png" alt="Artist Charts rank milestone push notification" width="400" />
 
 ## Sharing
 
