@@ -6,7 +6,7 @@
 
 ## Draft UI
 
-![Post-publish screen with a Share in Virtual Open Mic action](virtual-open-mic-share.png)
+![Post-publish screen with a Share in Virtual Open Mic action](images/virtual-open-mic-share.png)
 
 ## The idea
 

@@ -13,11 +13,11 @@
 
 ## Draft UI
 
-![Song Battles flow with competition, voting, leaderboard, submission, and voter profiles](image-2.png)
+![Song Battles flow with competition, voting, leaderboard, submission, and voter profiles](images/image-2.png)
 
-![Voting leaderboard reference](image-1.png)
+![Voting leaderboard reference](images/image-1.png)
 
-![Tournament bracket reference](image-3.png)
+![Tournament bracket reference](images/image-3.png)
 
 ## The idea
 

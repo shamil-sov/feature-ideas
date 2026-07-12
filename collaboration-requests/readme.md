@@ -14,7 +14,7 @@ Artists often need help with their tracks but have no structured way to ask for 
 
 On ressit there is 'Collab Search' tag in Bandlab subreddit; artists posting "who wants to collab?" or "need help finishing this"
 
-<img src="collaboration-invite.png" alt="Collaboration invite" height="500" />
+<img src="images/collaboration-invite.png" alt="Collaboration invite" height="500" />
 
 BandLab has no dedicated place where artists can find collaborators based on a specific project. 
 There is no way to say "here is my project, this is what I need" and have the right people discover it.
@@ -35,7 +35,7 @@ The artist is not forced to define a specific part or section. They describe the
 
 ## How it works
 
-<img src="image.png" height="500">
+<img src="images/image.png" height="500">
 
 The artist creates a collaboration request from their project or track.
 
@@ -50,7 +50,7 @@ The request is published as a card and appears in a collaboration feed.
 
 ## Collaboration feed
 
-<img src="image-3.png" height="500">
+<img src="images/image-3.png" height="500">
 
 BandLab could have a dedicated feed for active collaboration requests.
 
@@ -71,9 +71,9 @@ Example cards:
 
 ## Responding
 
-<img src="image-1.png" height="500">
+<img src="images/image-1.png" height="500">
 
-<img src="image-2.png" height="500">
+<img src="images/image-2.png" height="500">
 
 Other users can respond to a request in multiple ways:
 

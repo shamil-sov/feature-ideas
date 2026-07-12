@@ -6,7 +6,7 @@ Yes — I’d add this as part of the platform opportunity.
 
 # Feature idea: In-App Feature Feedback
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Problem
 

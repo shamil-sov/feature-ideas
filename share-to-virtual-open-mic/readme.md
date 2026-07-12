@@ -6,7 +6,7 @@ No, need to be part of publishing pop-up window
 
 
 
-<img src="virtual-open-mic-share.png" width="400" />
+<img src="images/virtual-open-mic-share.png" width="400" />
 
 ## Basic idea
 

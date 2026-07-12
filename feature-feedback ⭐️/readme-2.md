@@ -6,7 +6,7 @@
 
 ## Draft UI
 
-![In-app feedback prompt, optional reason, stored data, and internal dashboard](image.png)
+![In-app feedback prompt, optional reason, stored data, and internal dashboard](images/image.png)
 
 ## The idea
 

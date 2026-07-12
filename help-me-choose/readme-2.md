@@ -6,9 +6,9 @@
 
 ## Draft UI
 
-![Full Help Me Choose flow from creating a comparison to viewing results](help-me-choose.png)
+![Full Help Me Choose flow from creating a comparison to viewing results](images/help-me-choose.png)
 
-![Help Me Choose discovery feed](help-me-choose-feed.png)
+![Help Me Choose discovery feed](images/help-me-choose-feed.png)
 
 ## The idea
 

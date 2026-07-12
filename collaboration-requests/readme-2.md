@@ -10,11 +10,11 @@
 
 The BandLab subreddit already uses a “Collab Search” tag for posts such as “Who wants to collaborate?” and “I need help finishing this.”
 
-![Collab Search posts in the BandLab subreddit](collaboration-invite.png)
+![Collab Search posts in the BandLab subreddit](images/collaboration-invite.png)
 
-![Create a collaboration request](image.png)
+![Create a collaboration request](images/image.png)
 
-![Collaboration feed](image-3.png)
+![Collaboration feed](images/image-3.png)
 
 ## The idea
 
@@ -52,7 +52,7 @@ Each card lets them preview the audio and understand the request before opening 
 
 ## Responding
 
-![Collaboration request and public responses](image-1.png)
+![Collaboration request and public responses](images/image-1.png)
 
 People can respond in whatever way fits the request:
 
@@ -65,7 +65,7 @@ The original artist reviews the responses and decides what happens next.
 
 Users can also keep track of their requests, responses, conversations, and invites.
 
-![A user's submitted collaboration responses](image-2.png)
+![A user's submitted collaboration responses](images/image-2.png)
 
 ## Public submissions
 

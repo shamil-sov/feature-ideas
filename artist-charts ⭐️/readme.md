@@ -1,239 +1,139 @@
-## Can this feature be a separate/standalone MVP?
+# Artist Charts
 
-Yes
+## Can this be a standalone feature?
 
-### UI and refs
+🟢 Yes.
 
-Mentioend here => https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/
+## UI and reference
 
-![alt text](image-artist-chart.png)
+TBD
 
-# Feature idea: Artist Charts
+## The idea
 
-## Basic idea
+Inspired by this [BandLab feature wishlist](https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/).
 
-Artist Charts are ranking pages that show the most popular and fastest-growing artists on BandLab.
+Artist Charts rank popular and fast-growing artists on BandLab.
 
-Artists do not need to submit themselves. Users do not vote directly.
+Artists are added automatically. They do not need to apply, and listeners do not vote.
 
-The ranking is calculated automatically based on artist performance on BandLab, mainly using plays and likes.
+The goal is to:
 
-The goal is to help users discover artists, reward creators for growth, and give artists a clearer sense of progress.
+- Help listeners discover artists
+- Give creators more recognition
+- Make artist growth easier to see
+- Give creators a reason to keep publishing and return to BandLab
 
-## How it works
+## Why it matters
 
-BandLab calculates artist rankings based on signals such as:
+Many creators publish music without knowing whether they are making meaningful progress. Plays, likes, and follower counts move slowly and do not show how an artist compares with similar creators. Discovery can also favor artists who already have large audiences.
 
-- Plays
-- Likes
-- Recent growth in plays and likes
+Artist Charts could:
 
-Charts can be grouped by genre and time period.
+- Turn recent progress into a clear and achievable goal
+- Give creators recognition through ranks, movement, badges, and personal bests
+- Help listeners discover smaller and growing artists
+- Give artists reasons to return for chart updates and milestones
+- Encourage more publishing, promotion, and sharing outside BandLab
 
-Genres could include:
+The charts need to update often enough to feel alive. They should reward recent, real engagement and give artists in every league a realistic chance to appear.
 
-- Hip-Hop
-- Rock
-- Pop
-- Electronic
-- R&B
-- Alternative Rock
-- Other major genres
+## Charts
 
-Time periods could include:
+People can explore artist rankings using three filters:
 
-- Today
-- This Week
-- This Month
+- **Timeline** — Today, This Week, or This Month
+- **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
+- **League** — artists grouped by follower count
 
-Examples:
+<img src="images/artist-charts-browser.png" alt="Artist Charts screen showing a compact ranked artist list" width="400" />
 
-- Top Hip-Hop Artists Today
-- Top Rock Artists This Week
-- Top Electronic Artists This Month
-- Fastest Growing Pop Artists This Week
-- Biggest Movers in Alternative Rock This Month
 
-This means users do not only see one global artist chart. They can explore charts based on genre and timeline.
+## How ranking works
 
-## Artist tiers
+Rankings can use a flexible mix of signals, such as:
 
-One important part of this idea is artist tiers.
+- Plays and likes
+- Listening time
+- Play-to-like ratio
+- Recent growth in plays, likes, and other engagement
 
-If we only create one global chart, already popular artists will probably dominate it.
+<img src="images/artist-ranking-signals.png" alt="Artist Charts ranking signals flowing into an artist rank" width="400" />
 
-To make the chart more fair and useful for smaller creators, artists can be grouped by audience size, for example based on follower count.
+## Artist leagues
 
-Example tiers:
+A single global chart would probably be dominated by artists who already have large audiences. To give smaller artists a fairer chance, artists compete in leagues based on follower count:
 
-- 0–100 followers
-- 100–1,000 followers
-- 1,000–10,000 followers
-- 10,000–100,000 followers
-- 100,000+ followers
+- **Starter League** — Under 100 followers
+- **Emerging League** — 100–999 followers
+- **Breakthrough League** — 1,000–9,999 followers
+- **Established League** — 10,000–99,999 followers
+- **Headliner League** — 100,000+ followers
 
-This means artists are ranked against other artists at a similar level.
+BandLab places artists into the right league automatically. Artists should not choose or change their league manually.
 
-For example, a creator with 500 followers would not need to compete directly against a creator with 500,000 followers.
+For example, an artist with 500 followers competes with artists at a similar level, not with an artist who has 500,000 followers.
 
-This makes rankings feel more achievable and helps surface emerging artists.
+This gives more artists a realistic goal and helps listeners discover emerging creators at different stages of growth.
 
-## Example charts
+<img src="images/artist-leagues-auto.svg" alt="Artist Charts automatic league placement based on follower count" width="400" />
 
-Some possible chart examples:
+## Rank and progress
 
-- Top Hip-Hop Artists Today
-- Top Hip-Hop Artists This Week
-- Top Hip-Hop Artists This Month
-- Top Rock Artists in the 1K–10K Follower Tier
-- Fastest Growing Electronic Artists This Week
-- Biggest Movers in Alternative Rock This Month
-- New Entries in Pop This Week
+Charts show how an artist is doing and how their position has changed:
 
-The focus should not only be lifetime popularity.
-
-Charts should also reward recent activity, so new and growing artists have a chance to appear.
-
-## Artist profile badge
-
-If an artist appears in a chart, we can show a badge on their profile.
-
-Example:
-
-#8 Alternative Rock Artist This Week
-#3 in the 1K–10K Follower Tier
-
-Tapping the badge would open the related chart page.
-
-This gives the artist recognition and also helps listeners discover similar artists in the same chart.
-
-### Chart insights (🤑 Premium feature)
-
-Artists could unlock deeper insights about their chart performance with a premium feature.
-
-This could include:
-
-- Detailed ranking history (how their position changed over weeks/months)
-- Which demographics or regions are listening most
-- Comparison with other artists in their tier
-
-This gives artists a clearer understanding of their growth and what's driving their success, while creating a monetization opportunity for paid members.
-
-## Ranking movement
-
-Charts should show how an artist’s position changes over time.
-
-Examples:
-
-- ↑ Up 12 positions this week
-- ↓ Down 3 positions
+- Current rank
+- Up or down since the previous chart
 - New Entry
-- Highest Rank: #5
+- Highest Rank
+- Ranking history and performance trends
 
-This makes the chart feel alive and gives creators a reason to check their progress.
+Rank movement makes progress easier to see than play, like, or follower totals.
 
-Artists could also see their ranking history and performance trends later, but this does not need to be part of the first version.
+<img src="images/artist-rank-progress.png" alt="Artist rank screen showing current rank, movement, history, and personal best" width="400" />
+
+## Profile badge
+
+Ranked artists can have a badge on their profile, for example:
+
+> #8 Alternative Rock Artist This Week<br>
+> Breakthrough League · Updated 2 hours ago
+
+The badge makes chart success visible on the artist’s profile. Showing when it was updated tells visitors that the rank is current. Tapping the badge opens the related chart.
+
+<img src="images/artist-profile-chart-badge.png" alt="BandLab artist profile with an Artist Charts badge" width="400" />
 
 ## Notifications
 
-BandLab can notify artists when something meaningful happens in the chart.
-
-Examples:
+BandLab can notify artists about meaningful chart moments:
 
 - You entered the Top 100 Hip-Hop Artists this week.
-- Your ranking increased from #24 to #12.
-- You are one of the fastest-growing artists in Alternative Rock this month.
-- This is your highest chart position so far.
+- You moved up from #24 to #12 this week.
+- You moved down from #12 to #18 this week.
+- The charts have been updated. Check your new rank.
 
-These notifications can create small moments of excitement and give creators a reason to open the app again.
+Artists may not check every chart update on their own. Notifications bring them back for meaningful moments and can encourage them to publish, promote their music, and engage with listeners. They should focus on milestones so they feel rewarding rather than noisy.
 
-## Sharing rankings
+<img src="images/artist-charts-push-notification.png" alt="Artist Charts rank milestone push notification" width="400" />
 
-Artists should be able to share their ranking outside BandLab.
+## Sharing
 
-For example:
+Artists can share their rank outside BandLab, for example:
 
-“I’m #8 Alternative Rock Artist this week on BandLab.”
+> I’m the #8 Alternative Rock Artist this week on BandLab.
 
-This gives artists something to be proud of and can also bring organic promotion for BandLab.
+A ranking gives artists something specific to celebrate. Sharing can bring outside listeners to the artist’s profile and create organic promotion for BandLab.
 
+<img src="images/artist-chart-sharing.png" alt="Shareable Artist Charts achievement card" width="400" />
 
-## What problem does it solve?
+## Premium chart insights
 
-Many creators publish music but get very little feedback about whether they are actually making progress.
+The main chart experience should remain free. Members could get deeper insights, such as:
 
-Plays, likes, and follower counts can move slowly. A creator may not know whether their recent activity is helping.
+- Detailed ranking history over weeks or months
+- Listener demographics and regions
+- Comparisons with other artists in the same league
+- Longer-term performance trends, such as a 90-day view
 
-Artist Charts turn that progress into something easier to understand.
+This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
 
-For example:
-
-“I’m currently #18 among Hip-Hop artists in my follower group this week.”
-
-This solves two main problems.
-
-First, it gives creators more recognition. Smaller artists can get a visible achievement even if they are not globally popular.
-
-Second, it improves artist discovery. Listeners can find artists by genre, audience level, and recent performance instead of only seeing the biggest accounts.
-
-It also gives creators a clearer goal. Moving from #42 to #25 can feel more motivating than simply gaining a few likes.
-
-## Why it could help retention
-
-The strongest potential impact is probably creator retention.
-
-Artists would have reasons to come back and check:
-
-- Their current position
-- Whether they moved up or down
-- Their highest position
-- Who is ranked around them
-- What they need to do to keep growing
-
-Notifications make this stronger because they turn ranking changes into small wins.
-
-Examples:
-
-- You entered the Top 100 Hip-Hop Artists this week.
-- You moved from #42 to #18 this week.
-
-This can motivate creators to open BandLab, publish again, share their profile, and engage with their audience.
-
-The ranking needs to change often enough to feel alive. If artists stay in the same position for weeks, they may stop checking it.
-
-## Where the biggest impact could be
-
-The biggest impact would probably be in three areas:
-
-- Creator motivation and retention
-- Discovery of smaller artists
-- More publishing and promotion activity
-
-The profile badge and shareable ranking are especially useful because they give creators something they may want to share outside BandLab.
-
-Example:
-
-“#8 Alternative Rock Artist this week on BandLab.”
-
-## Monetization opportunities
-
-This feature should probably not start with heavy monetization.
-
-A safer future monetization option could be more detailed ranking history for members.
-
-For example:
-
-- Free users see current rank and recent movement.
-- Members see abalytics like 90-day ranking history
-
-This keeps the core chart experience available to everyone, while giving members extra insight.
-
-## Risks / things to be careful about
-
-The feature is strong, especially for creator retention, but only if rankings feel achievable for smaller artists.
-
-Without follower-based groups, the feature could mostly reward artists who are already popular.
-
-Then it may become just another generic chart, instead of something that helps more creators feel seen.
-
-We should also make sure the ranking rewards recent plays and likes, not only lifetime popularity.
+<img src="images/artist-chart-premium-insights.png" alt="Premium Artist Charts insights with rank history, listener regions, and league comparison" width="400" />
