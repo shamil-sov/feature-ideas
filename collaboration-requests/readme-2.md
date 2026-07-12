@@ -22,6 +22,18 @@ Let artists publish an open request when they want help with a project. They mig
 
 The request stays flexible. Artists explain what they need in their own words instead of following one fixed collaboration format.
 
+## Why it matters
+
+Artists often need help with a real track but have no structured way to explain what they need and reach the right people. General “Who wants to collab?” posts lack context and quickly disappear in busy feeds. People who want to contribute also have no easy way to find suitable projects.
+
+Open Collaboration Requests could:
+
+- Help artists find relevant collaborators around a real project
+- Give responders a starting point, exposure, and portfolio material
+- Turn more unfinished ideas into completed tracks
+- Improve creator discovery by role, genre, and skill
+- Create repeat visits through submissions, conversations, invites, and ongoing project work
+
 ## Creating a request
 
 An artist starts from a project or track and adds:
@@ -60,18 +72,6 @@ Users can also keep track of their requests, responses, conversations, and invit
 Responses could be public so other people can listen, like, comment, and discover the person who responded. This gives contributors some exposure even when their version is not selected.
 
 This is still an open choice: some requests may work better with private responses, or the artist may need control over whether submissions are public.
-
-## Why it matters
-
-Artists often need help with a real track but have no structured way to explain what they need and reach the right people. General “Who wants to collab?” posts lack context and quickly disappear in busy feeds. People who want to contribute also have no easy way to find suitable projects.
-
-Open Collaboration Requests could:
-
-- Help artists find relevant collaborators around a real project
-- Give responders a starting point, exposure, and portfolio material
-- Turn more unfinished ideas into completed tracks
-- Improve creator discovery by role, genre, and skill
-- Create repeat visits through submissions, conversations, invites, and ongoing project work
 
 ## Monetization ideas
 

@@ -18,6 +18,18 @@ Occasionally ask users for quick feedback after they use a feature:
 
 If they choose a negative rating, they can select a reason and optionally add a short comment.
 
+## Why it matters
+
+Analytics show what users did, but not always how they felt. An AI video may be generated successfully while still feeling irrelevant or disappointing.
+
+In-App Feature Feedback could:
+
+- Separate technical success from user satisfaction
+- Show perceived quality, usefulness, and common frustrations
+- Help teams improve AI, experimental features, and new flows faster
+- Add user sentiment to existing usage data
+- Catch poor experiences before they make users stop using a feature
+
 ## When it appears
 
 The prompt can appear after an AI video, profile summary, hashtag generation, new onboarding flow, or another experimental feature.
@@ -46,18 +58,6 @@ Each entry could include:
 - Useful user or feature context, where appropriate
 
 An internal feedback page can show totals and let teams filter by feature, rating, date, user segment, and platform. Teams could also export results for deeper analysis.
-
-## Why it matters
-
-Analytics show what users did, but not always how they felt. An AI video may be generated successfully while still feeling irrelevant or disappointing.
-
-In-App Feature Feedback could:
-
-- Separate technical success from user satisfaction
-- Show perceived quality, usefulness, and common frustrations
-- Help teams improve AI, experimental features, and new flows faster
-- Add user sentiment to existing usage data
-- Catch poor experiences before they make users stop using a feature
 
 ## First version
 

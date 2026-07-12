@@ -14,16 +14,6 @@ After a creator publishes a track, add a new action to the existing post-publish
 
 > Share in Virtual Open Mic
 
-## How it works
-
-1. The creator publishes a track.
-2. BandLab shows the existing post-publish actions.
-3. The creator taps “Share in Virtual Open Mic.”
-4. The track appears in Virtual Open Mic.
-5. Other users can listen, react, and comment.
-
-This keeps the feature lightweight because it connects two existing experiences instead of creating a separate flow.
-
 ## Why it matters
 
 Creators already have tools for publishing music. What they often need next is an audience. Publishing can feel empty when a track gets no listens or reactions.
@@ -36,3 +26,13 @@ Sharing to Virtual Open Mic from the post-publish screen could:
 - Make publishing feel more rewarding
 - Give creators a reason to return and see what happened
 - Encourage creators to publish and share again
+
+## How it works
+
+1. The creator publishes a track.
+2. BandLab shows the existing post-publish actions.
+3. The creator taps “Share in Virtual Open Mic.”
+4. The track appears in Virtual Open Mic.
+5. Other users can listen, react, and comment.
+
+This keeps the feature lightweight because it connects two existing experiences instead of creating a separate flow.

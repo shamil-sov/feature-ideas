@@ -14,6 +14,20 @@ Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas
 
 Give BandLab users one place to suggest improvements, vote for ideas, discuss them, and follow their progress.
 
+## Why it matters
+
+Feature requests are spread across social media, support tickets, Reddit, comments, and direct messages. This makes demand hard to measure, and users cannot easily tell whether BandLab has seen an idea.
+
+A dedicated Feature Requests space could:
+
+- Give product teams clearer demand and better research input
+- Use comments to explain the need behind each vote
+- Reduce requests scattered across support and social channels
+- Give users one place to follow ideas and status changes
+- Build trust through clearer communication about planned and shipped work
+
+Votes should remain one product signal, not an automatic promise that the most-voted idea will be built.
+
 ## Browsing requests
 
 Users can filter requests by areas such as Studio, Collaboration, Discovery, Profile, Monetization, AI tools, Mobile app, or Community. They can sort by most voted, trending, or newest.
@@ -43,17 +57,3 @@ Possible statuses:
 - Under review
 - Planned
 - Shipped
-
-## Why it matters
-
-Feature requests are spread across social media, support tickets, Reddit, comments, and direct messages. This makes demand hard to measure, and users cannot easily tell whether BandLab has seen an idea.
-
-A dedicated Feature Requests space could:
-
-- Give product teams clearer demand and better research input
-- Use comments to explain the need behind each vote
-- Reduce requests scattered across support and social channels
-- Give users one place to follow ideas and status changes
-- Build trust through clearer communication about planned and shipped work
-
-Votes should remain one product signal, not an automatic promise that the most-voted idea will be built.

@@ -21,6 +21,19 @@ For example:
 - Which vocal take has better energy?
 - Which version fits the song better?
 
+## Why it matters
+
+Creators often make difficult decisions alone, ask friends in chat, or use a general poll that is not designed for comparing music.
+
+Help Me Choose could:
+
+- Make creative decisions faster and more confident
+- Turn scattered opinions into structured, useful feedback
+- Create more listening and interaction between creators and listeners
+- Bring creators back while votes arrive and when results are ready
+- Give helpful voters progress, recognition, and reasons to take part again
+- Create membership or paid-reach value for creators who want more responses
+
 ## Creating a request
 
 A creator opens a saved project or revision and:
@@ -84,19 +97,6 @@ Voting is quick, social, and gives listeners some influence over a creator’s d
 - Voting streaks
 - Helpful Listener or genre-based badges
 - A history of creators they helped
-
-## Why it matters
-
-Creators often make difficult decisions alone, ask friends in chat, or use a general poll that is not designed for comparing music.
-
-Help Me Choose could:
-
-- Make creative decisions faster and more confident
-- Turn scattered opinions into structured, useful feedback
-- Create more listening and interaction between creators and listeners
-- Bring creators back while votes arrive and when results are ready
-- Give helpful voters progress, recognition, and reasons to take part again
-- Create membership or paid-reach value for creators who want more responses
 
 ## Monetization ideas
 
