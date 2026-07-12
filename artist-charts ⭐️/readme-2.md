@@ -68,11 +68,13 @@ A single global chart would probably be dominated by artists who already have la
 - **Established League** — 10,000–99,999 followers
 - **Headliner League** — 100,000+ followers
 
+BandLab places artists into the right league automatically. Artists should not choose or change their league manually.
+
 For example, an artist with 500 followers competes with artists at a similar level, not with an artist who has 500,000 followers.
 
 This gives more artists a realistic goal and helps listeners discover emerging creators at different stages of growth.
 
-<img src="artist-leagues.png" alt="Artist Charts league selector with five follower-based leagues" width="400" />
+<img src="artist-leagues-auto.svg" alt="Artist Charts automatic league placement based on follower count" width="400" />
 
 ## Rank and progress
 
