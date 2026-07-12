@@ -49,7 +49,7 @@ A request includes:
 - Category
 - Optional screenshot or example
 
-Before publishing, BandLab can suggest similar requests. This helps users support an existing idea instead of creating a duplicate.
+<img src="images/image-browse.png" alt="alt text" width="500">
 
 ## Voting and discussion
 
