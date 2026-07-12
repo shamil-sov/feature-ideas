@@ -49,7 +49,7 @@ A request includes:
 - Category
 - Optional screenshot or example
 
-<img src="images/image-browse.png" alt="alt text" width="500">
+<img src="images/image-browse.png" alt="alt text" width="300">
 
 ## Voting and discussion
 
