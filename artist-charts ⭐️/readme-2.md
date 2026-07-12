@@ -46,6 +46,8 @@ Rankings can use a flexible mix of signals, such as:
 - Play-to-like ratio
 - Recent growth in plays, likes, and other engagement
 
+<img src="artist-ranking-signals.png" alt="Artist Charts ranking signals flowing into an artist rank" width="400" />
+
 ## Charts
 
 People can explore artist rankings using three filters:
@@ -53,6 +55,8 @@ People can explore artist rankings using three filters:
 - **Timeline** — Today, This Week, or This Month
 - **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
 - **League** — artists grouped by follower count
+
+<img src="artist-charts-browser.png" alt="Artist Charts screen with timeline, genre, and league filters" width="400" />
 
 ## Artist leagues
 
@@ -68,6 +72,8 @@ For example, an artist with 500 followers competes with artists at a similar lev
 
 This gives more artists a realistic goal and helps listeners discover emerging creators at different stages of growth.
 
+<img src="artist-leagues.png" alt="Artist Charts league selector with five follower-based leagues" width="400" />
+
 ## Rank and progress
 
 Charts show how an artist is doing and how their position has changed:
@@ -79,6 +85,8 @@ Charts show how an artist is doing and how their position has changed:
 - Ranking history and performance trends
 
 Rank movement makes progress easier to see than play, like, or follower totals.
+
+<img src="artist-rank-progress.png" alt="Artist rank screen showing current rank, movement, history, and personal best" width="400" />
 
 ## Profile badge
 
@@ -112,6 +120,8 @@ Artists can share their rank outside BandLab, for example:
 
 A ranking gives artists something specific to celebrate. Sharing can bring outside listeners to the artist’s profile and create organic promotion for BandLab.
 
+<img src="artist-chart-sharing.png" alt="Shareable Artist Charts achievement card" width="400" />
+
 ## Premium chart insights
 
 The main chart experience should remain free. Members could get deeper insights, such as:
@@ -122,3 +132,5 @@ The main chart experience should remain free. Members could get deeper insights,
 - Longer-term performance trends, such as a 90-day view
 
 This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
+
+<img src="artist-chart-premium-insights.png" alt="Premium Artist Charts insights with rank history, listener regions, and league comparison" width="400" />
