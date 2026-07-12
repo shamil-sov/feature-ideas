@@ -1,18 +1,18 @@
 # Feature Requests
 
-## Can this be a standalone feature?
-
-🟢 Yes.
-
 ## UI and reference
 
 Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas/ct-p/newideas) page.
 
-![Feature Requests page with ideas, votes, and comments](image.png)
+<!-- ![Feature Requests page with ideas, votes, and comments](image.png) -->
 
 ## The idea
 
-Give BandLab users one place to suggest improvements, vote for ideas, discuss them, and follow their progress.
+Give BandLab users one place to suggest udeasm improvements, vote for ideas, discuss them.
+
+Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
+
+![alt text](image-1.png)
 
 ## Why it matters
 
