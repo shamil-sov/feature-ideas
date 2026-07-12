@@ -63,3 +63,5 @@ Possible statuses:
 - Under review
 - Planned
 - Shipped
+
+<img src="images/image-discussion.png" alt="alt text" width="300">
