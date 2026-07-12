@@ -39,6 +39,17 @@ Artist Charts could:
 
 The charts need to update often enough to feel alive. They should reward recent, real engagement and give artists in every league a realistic chance to appear.
 
+## Charts
+
+People can explore artist rankings using three filters:
+
+- **Timeline** — Today, This Week, or This Month
+- **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
+- **League** — artists grouped by follower count
+
+<img src="artist-charts-browser.png" alt="Artist Charts screen with timeline, genre, and league filters" width="400" />
+
+
 ## How ranking works
 
 Rankings can use a flexible mix of signals, such as:
@@ -49,16 +60,6 @@ Rankings can use a flexible mix of signals, such as:
 - Recent growth in plays, likes, and other engagement
 
 <img src="artist-ranking-signals.png" alt="Artist Charts ranking signals flowing into an artist rank" width="400" />
-
-## Charts
-
-People can explore artist rankings using three filters:
-
-- **Timeline** — Today, This Week, or This Month
-- **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
-- **League** — artists grouped by follower count
-
-<img src="artist-charts-browser.png" alt="Artist Charts screen with timeline, genre, and league filters" width="400" />
 
 ## Artist leagues
 
