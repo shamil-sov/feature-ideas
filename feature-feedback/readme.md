@@ -24,7 +24,7 @@ Example:
 - 😐 It's okay
 - 👎 Needs improvement
 
-<img src="images/feedback-prompt.png" alt="Feedback prompt after AI video generation" width="360">
+<img src="images/feedback-prompt.png" alt="Feedback prompt after AI video generation" width="300">
 
 If the user selects a negative option, they can optionally explain why.
 
@@ -48,11 +48,11 @@ Examples:
 
 Feedback should be quick and optional.
 
-<img src="images/feedback-reason.png" alt="Optional reasons for negative feedback" width="360">
+<img src="images/feedback-reason.png" alt="Optional reasons for negative feedback" width="300">
 
 After feedback is submitted, the user sees a short confirmation and can continue.
 
-<img src="images/feedback-submitted.png" alt="Feedback submitted confirmation" width="360">
+<img src="images/feedback-submitted.png" alt="Feedback submitted confirmation" width="300">
 
 ## Centralized feedback service
 
