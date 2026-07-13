@@ -1,9 +1,5 @@
 # Artist Charts
 
-## Can this be a standalone feature?
-
-🟢 Yes.
-
 ## The idea
 
 Inspired by this [BandLab feature wishlist](https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/).
