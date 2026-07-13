@@ -6,6 +6,8 @@
 
 ## UI and reference
 
+Checkout [Prototype](https://artist-charts-shamil-review-20260712.sovshasovs.chatgpt.site/)
+
 ![alt text](image.png)
 
 ## The idea
