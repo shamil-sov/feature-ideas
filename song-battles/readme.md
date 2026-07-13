@@ -3,7 +3,6 @@
 > [!NOTE]
 > Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
 
-
 BandLab could have recurring track competitions for each genre, for example:
 
 Hip-Hop, Rock, Pop, Electronic, R&B, etc.
