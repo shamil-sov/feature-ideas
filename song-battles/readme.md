@@ -1,21 +1,7 @@
-## Can this feature be a separate/standalone MVP?
+# The idea
 
-🟢 Yes.
-
-
-## Refs
-* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
-* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
-* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
-* https://youtu.be/9NEsoIYq4kA
-
-
-
-## Draft UIs
-
-![alt text](image-2.png)
-
-# Song battles
+> [!NOTE]
+> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
 
 BandLab could have recurring track competitions for each genre, for example:
 
@@ -28,6 +14,14 @@ A week would probably feel too long and make the battle stale.
 Creators submit tracks into a genre competition. Other users vote between tracks from the same genre. At the end of the competition, the top tracks become finalists or winners.
 
 The main idea is to give creators a fun and fair way to get their music heard.
+
+<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="300" />
+
+## Refs
+* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
+* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
+* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
+* https://youtu.be/9NEsoIYq4kA
 
 ## How it works
 
@@ -55,6 +49,8 @@ The next comparison is shown.
 
 This can support many tracks because every creator who wants to submit also helps generate votes for others.
 
+<img src="images/song-battle-voting-flow.png" alt="Song Battle voting flow" width="300" />
+
 ## Fairness
 
 To make voting more fair, some information could be hidden during voting:
@@ -81,6 +77,9 @@ Example leaderboard item:
 #12 — Track Name
 18 wins · 7 losses · 72% win rate
 ↑ 5 positions
+
+<img src="images/song-battle-ranking.png" alt="Song Battle ranking" width="300" />
+
 
 ## Competition ending
 
@@ -165,6 +164,8 @@ For example:
 - Most active voters in Rock
 
 This makes voting feel more valuable, not just something users do once before submitting.
+
+<img src="images/song-battle-active-voters.png" alt="Most active Song Battle voters" width="300" />
 
 ## Comment section
 

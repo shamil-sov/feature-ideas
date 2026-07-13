@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Song Battles results screen</title>
+  <desc id="desc">A polished dark mobile app leaderboard showing winners, win rates, and the creator's rank.</desc>
+  <defs>
+    <linearGradient id="phoneBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111116"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="winner" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff453f"/>
+      <stop offset="1" stop-color="#5a1733"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe28a"/>
+      <stop offset="1" stop-color="#bd7119"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="#000"/>
+  <rect x="74" y="46" width="752" height="1508" rx="82" fill="url(#phoneBg)" stroke="#343640" stroke-width="4"/>
+  <rect x="104" y="82" width="692" height="1436" rx="58" fill="#09090d" stroke="#1d1e26" stroke-width="2"/>
+  <text x="142" y="160" fill="#f8f8fb" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750">9:41</text>
+  <text x="136" y="284" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="850">Results</text>
+  <text x="138" y="334" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">Hip-Hop Battle - final standings</text>
+
+  <rect x="136" y="392" width="628" height="226" rx="34" fill="url(#winner)"/>
+  <circle cx="212" cy="500" r="48" fill="url(#gold)"/>
+  <path d="M212 466l13 27 30 4-22 21 5 30-26-14-27 14 5-30-22-21 31-4z" fill="#fff"/>
+  <text x="292" y="478" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="850">#1 Neon Signal</text>
+  <text x="292" y="520" fill="#ffd5d5" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">23W - 5L - 82% win rate</text>
+  <rect x="292" y="548" width="164" height="42" rx="21" fill="#fff" fill-opacity="0.18"/>
+  <text x="324" y="575" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="850">Winner</text>
+
+  <text x="136" y="688" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">Leaderboard</text>
+  <rect x="136" y="724" width="628" height="104" rx="24" fill="#171821" stroke="#2c2e38"/>
+  <text x="176" y="786" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="850">#2 Low Orbit</text>
+  <text x="600" y="786" fill="#35e38b" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">76%</text>
+  <rect x="136" y="852" width="628" height="104" rx="24" fill="#171821" stroke="#2c2e38"/>
+  <text x="176" y="914" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="850">#3 Static Bloom</text>
+  <text x="600" y="914" fill="#35e38b" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">71%</text>
+  <rect x="136" y="1000" width="628" height="128" rx="28" fill="#1d1420" stroke="#ff453f"/>
+  <text x="176" y="1074" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="850">#12 Your track</text>
+  <text x="176" y="1110" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="21">10W - 7L - 59% win rate</text>
+  <text x="642" y="1086" fill="#35e38b" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="850">+5</text>
+
+  <rect x="136" y="1188" width="296" height="116" rx="26" fill="#171821" stroke="#2c2e38"/>
+  <text x="176" y="1238" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750">Votes cast</text>
+  <text x="176" y="1280" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="850">9,842</text>
+  <rect x="468" y="1188" width="296" height="116" rx="26" fill="#171821" stroke="#2c2e38"/>
+  <text x="508" y="1238" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750">Finalists</text>
+  <text x="508" y="1280" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="850">Top 10</text>
+  <rect x="136" y="1350" width="628" height="68" rx="34" fill="#ff453f"/>
+  <text x="346" y="1394" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="850">Share results</text>
+</svg>

@@ -1,12 +1,4 @@
-## Can this feature be a separate/standalone MVP?
-
-No
-
-Yes — I’d add this as part of the platform opportunity.
-
 # Feature idea: In-App Feature Feedback
-
-![alt text](image.png)
 
 ## Problem
 
@@ -28,17 +20,14 @@ Example:
 
 "How do you like it?"
 
-👍 Love it
-😐 It's okay
-👎 Needs improvement
+- 👍 Love it
+- 😐 It's okay
+- 👎 Needs improvement
+
+<img src="images/feedback-prompt.png" alt="Feedback prompt after AI video generation" width="300">
 
 If the user selects a negative option, they can optionally explain why.
 
-Example:
-
-"The video doesn't match my song."
-"The hashtags were not relevant."
-"The summary feels generic."
 
 ## How it works
 
@@ -46,13 +35,13 @@ After a feature completes or reaches an important milestone, BandLab can show a 
 
 Examples:
 
-After AI video generation
-After AI profile summary generation
-After AI hashtag generation
-After completing a new onboarding flow
-After using an experimental feature
+- After AI video generation
+- After Lyrics transcription
+- After any other new feature...
 
 Feedback should be quick and optional.
+
+<img src="images/feedback-reason.png" alt="Optional reasons for negative feedback" width="300">
 
 ## Centralized feedback service
 
@@ -62,21 +51,22 @@ Any feature could send feedback to the same service.
 
 Each feedback entry could include:
 
-Feature name
-User rating
-Optional text feedback
-Timestamp
-Relevant context if needed
+- Feature name
+- User rating
+- Optional text feedback
+- Timestamp
+- Relevant context if needed
 
 Internally, we could have a simple feedback page where teams can review submitted feedback.
 
+<img src="images/feedback-dashboard.png" alt="Internal feature feedback dashboard" width="900">
+
 The page could allow filtering by:
 
-Feature
-Rating
-Date
-User segment
-App platform
+- Feature
+- Rating
+- Date
+- App platform
 
 This would help us read real user feedback, spot common issues, and improve features faster.
 
@@ -85,12 +75,15 @@ This would help us read real user feedback, spot common issues, and improve feat
 Users often have insights that are difficult to discover through analytics alone.
 
 Analytics can tell us:
+
 - Users generated an AI video.
 
 Feedback can tell us:
+
 - Users generated an AI video but did not like the result.
 
 This helps us understand:
+
 - Perceived quality
 - Feature usefulness
 - Common frustrations
@@ -98,24 +91,10 @@ This helps us understand:
 
 It can be especially valuable for experimental and AI-powered features where quality is subjective.
 
-## Benefits
+Benefits
 
 - Better understanding of feature quality
 - Faster identification of problems
 - Direct user insights
-- Ability to measure sentiment alongside analytics
 - More informed product decisions
 - Reusable feedback system across many features
-
-## MVP
-
-- Show a feedback prompt after selected feature journeys.
-
-Options:
-- 👍 Love it
-- 😐 It's okay
-- 👎 Needs improvement
-
-- Optional text field for extra feedback.
-- Store feedback in one centralized service.
-- Provide an internal page where feedback can be viewed and filtered by feature.
