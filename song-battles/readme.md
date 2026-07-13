@@ -41,7 +41,7 @@ After completing the required votes, the creator can submit one track to that ge
 This creates a fair exchange:
 - If you want people to listen to your music, you also need to listen to and support other creators.
 
-![alt text](image.png)
+<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="400" />
 
 ## Voting flow
 
@@ -56,7 +56,7 @@ The next comparison is shown.
 
 This can support many tracks because every creator who wants to submit also helps generate votes for others.
 
-![alt text](image-1.png)
+<img src="images/song-battle-voting-flow.png" alt="Song Battle voting flow" width="400" />
 
 ## Fairness
 
@@ -85,7 +85,7 @@ Example leaderboard item:
 18 wins · 7 losses · 72% win rate
 ↑ 5 positions
 
-![alt text](image-2.png)
+<img src="images/song-battle-ranking.png" alt="Song Battle ranking" width="400" />
 
 
 ## Competition ending
@@ -171,6 +171,8 @@ For example:
 - Most active voters in Rock
 
 This makes voting feel more valuable, not just something users do once before submitting.
+
+![alt text](image-3.png)
 
 ## Comment section
 

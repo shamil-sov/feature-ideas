@@ -8,7 +8,7 @@
 
 Checkout [Prototype](https://artist-charts-shamil-review-20260712.sovshasovs.chatgpt.site/)
 
-![alt text](image.png)
+<img src="images/artist-charts-ui.png" alt="Artist Charts UI" width="400" />
 
 ## The idea
 
@@ -59,7 +59,7 @@ Rankings can use a flexible mix of signals, such as:
 - Play-to-like ratio
 - Recent growth in plays, likes, and other engagement
 
-![alt text](image-1.png)
+<img src="images/artist-ranking-explainer.png" alt="Artist Charts ranking signals" width="400" />
 
 ## Artist leagues
 
@@ -87,7 +87,7 @@ Ranked artists can have a badge on their profile, for example:
 
 The badge makes chart success visible on the artist’s profile. Showing when it was updated tells visitors that the rank is current. Tapping the badge opens the related chart.
 
-![alt text](image-2.png)
+<img src="images/artist-profile-badge-ui.png" alt="Artist chart badge on a profile" width="400" />
 
 ## Notifications
 
@@ -123,4 +123,4 @@ The main chart experience should remain free. Members could get deeper insights,
 
 This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
 
-![alt text](image-3.png)
+<img src="images/artist-premium-insights-ui.png" alt="Premium Artist Charts insights" width="400" />
