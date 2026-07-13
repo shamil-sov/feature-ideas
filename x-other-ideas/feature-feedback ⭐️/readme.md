@@ -1,7 +1,5 @@
 # Feature idea: In-App Feature Feedback
 
-![alt text](images/image.png)
-
 ## Problem
 
 When we launch a new feature, we usually measure success through analytics.
@@ -26,6 +24,8 @@ Example:
 😐 It's okay
 👎 Needs improvement
 
+<img src="images/feedback-prompt.png" alt="Feedback prompt after AI video generation" width="360">
+
 If the user selects a negative option, they can optionally explain why.
 
 Example:
@@ -48,6 +48,12 @@ After using an experimental feature
 
 Feedback should be quick and optional.
 
+<img src="images/feedback-reason.png" alt="Optional reasons for negative feedback" width="360">
+
+After feedback is submitted, the user sees a short confirmation and can continue.
+
+<img src="images/feedback-submitted.png" alt="Feedback submitted confirmation" width="360">
+
 ## Centralized feedback service
 
 Instead of building feedback collection separately for each feature, BandLab could introduce one centralized feedback service.
@@ -63,6 +69,8 @@ Timestamp
 Relevant context if needed
 
 Internally, we could have a simple feedback page where teams can review submitted feedback.
+
+<img src="images/feedback-dashboard.png" alt="Internal feature feedback dashboard" width="900">
 
 The page could allow filtering by:
 
@@ -91,6 +99,8 @@ This helps us understand:
 - Improvement opportunities
 
 It can be especially valuable for experimental and AI-powered features where quality is subjective.
+
+<img src="images/feedback-insights.png" alt="Feedback insights for an individual feature" width="900">
 
 ## Benefits
 

@@ -10,10 +10,9 @@
 * https://youtu.be/9NEsoIYq4kA
 
 
+## UI and prototype
 
-## Draft UIs
-
-![alt text](images/image-2.png)
+Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
 
 # Song battles
 
