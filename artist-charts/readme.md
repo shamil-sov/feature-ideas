@@ -43,9 +43,6 @@ People can explore artist rankings using three filters:
 - **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
 - **League** — artists grouped by follower count
 
-<img src="images/artist-charts-browser.png" alt="Artist Charts screen showing a compact ranked artist list" width="300" />
-
-
 ## How ranking works
 
 Rankings can use a flexible mix of signals, such as:
