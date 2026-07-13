@@ -172,7 +172,7 @@ For example:
 
 This makes voting feel more valuable, not just something users do once before submitting.
 
-![alt text](image-3.png)
+<img src="images/song-battle-active-voters.png" alt="Most active Song Battle voters" width="400" />
 
 ## Comment section
 

@@ -4,7 +4,7 @@
 
 Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas/ct-p/newideas) page.
 
-<!-- ![Feature Requests page with ideas, votes, and comments](images/image.png) -->
+<!-- <img src="images/image.png" alt="Feature Requests page with ideas, votes, and comments" width="400" /> -->
 
 ## The idea
 
