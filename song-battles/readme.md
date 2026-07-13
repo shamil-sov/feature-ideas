@@ -1,5 +1,9 @@
 # The idea
 
+> [!NOTE]
+> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
+
+
 BandLab could have recurring track competitions for each genre, for example:
 
 Hip-Hop, Rock, Pop, Electronic, R&B, etc.
@@ -13,9 +17,6 @@ Creators submit tracks into a genre competition. Other users vote between tracks
 The main idea is to give creators a fun and fair way to get their music heard.
 
 <img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="300" />
-
-> [!NOTE]
-> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
 
 ## Refs
 * https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
