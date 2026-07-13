@@ -12,9 +12,12 @@
 
 ## UI and prototype
 
-Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
+<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="400" />
 
 # Song battles
+
+> [!NOTE]
+> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
 
 BandLab could have recurring track competitions for each genre, for example:
 
@@ -40,8 +43,6 @@ After completing the required votes, the creator can submit one track to that ge
 
 This creates a fair exchange:
 - If you want people to listen to your music, you also need to listen to and support other creators.
-
-<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="400" />
 
 ## Voting flow
 
