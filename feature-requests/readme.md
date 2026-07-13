@@ -1,15 +1,6 @@
 # Feature Requests
 
-## UI and reference
-
-Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas/ct-p/newideas) page.
-
-<!-- <img src="images/image.png" alt="Feature Requests page with ideas, votes, and comments" width="400" /> -->
-
 ## The idea
-
-> [!NOTE]
-> Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
 
 Give BandLab users one place to suggest ideas, improvements, vote for ideas, discuss them.
 
@@ -20,6 +11,11 @@ We can have new `Feature requests` option in this menu
 By clicking on it ti can redirect to this page
 
 <img src="images/image-1.png" alt="alt text" width="500">
+
+> [!NOTE]
+> Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
+
+> Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas/ct-p/newideas) page.
 
 ## Why it matters
 

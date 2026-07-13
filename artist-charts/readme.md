@@ -4,15 +4,7 @@
 
 🟢 Yes.
 
-## UI and reference
-
-<img src="images/artist-charts-ui.png" alt="Artist Charts UI" width="400" />
-
 ## The idea
-
-> [!NOTE]
-> Checkout [Prototype](https://artist-charts-shamil-review-20260712.sovshasovs.chatgpt.site/)
-
 
 Inspired by this [BandLab feature wishlist](https://www.reddit.com/r/Bandlab/comments/1qo2i10/my_bandlab_2026_feature_wishlist_an_indepth_guide/).
 
@@ -26,6 +18,12 @@ The goal is to:
 - Give creators more recognition
 - Make artist growth easier to see
 - Give creators a reason to keep publishing and return to BandLab
+
+> [!NOTE]
+> Checkout [Prototype](https://artist-charts-shamil-review-20260712.sovshasovs.chatgpt.site/)
+
+<img src="images/artist-charts-ui.png" alt="Artist Charts UI" width="400" />
+
 
 ## Why it matters
 

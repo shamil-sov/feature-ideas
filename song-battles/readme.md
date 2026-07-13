@@ -1,23 +1,4 @@
-## Can this feature be a separate/standalone MVP?
-
-🟢 Yes.
-
-
-## Refs
-* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
-* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
-* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
-* https://youtu.be/9NEsoIYq4kA
-
-
-## UI and prototype
-
-<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="400" />
-
-# Song battles
-
-> [!NOTE]
-> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
+# The idea
 
 BandLab could have recurring track competitions for each genre, for example:
 
@@ -30,6 +11,17 @@ A week would probably feel too long and make the battle stale.
 Creators submit tracks into a genre competition. Other users vote between tracks from the same genre. At the end of the competition, the top tracks become finalists or winners.
 
 The main idea is to give creators a fun and fair way to get their music heard.
+
+<img src="images/song-battle-vote-requirement.png" alt="Voting requirement before submitting a track" width="300" />
+
+> [!NOTE]
+> Checkout [prototype](https://song-battles-prototype.sovshasovs.chatgpt.site/)
+
+## Refs
+* https://www.reddit.com/r/Bandlab/comments/1su0cac/weeekly_song_wars/
+* https://www.reddit.com/r/Bandlab/comments/1ooo0u7/music_battle/
+* https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/
+* https://youtu.be/9NEsoIYq4kA
 
 ## How it works
 
