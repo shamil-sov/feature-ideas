@@ -8,7 +8,7 @@ Inspired by the [Spotify Community Ideas](https://community.spotify.com/t5/Ideas
 
 ## The idea
 
-> [!NOTE]
+> [!IMPORTANT]
 > Check out [Bandlab Prototype](https://bandlab-ideas-prototype.sovshasovs.chatgpt.site/)
 
 Give BandLab users one place to suggest ideas, improvements, vote for ideas, discuss them.
