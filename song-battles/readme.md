@@ -41,6 +41,8 @@ After completing the required votes, the creator can submit one track to that ge
 This creates a fair exchange:
 - If you want people to listen to your music, you also need to listen to and support other creators.
 
+![alt text](image.png)
+
 ## Voting flow
 
 The voting experience could be simple:
@@ -53,6 +55,8 @@ User picks the track they prefer.
 The next comparison is shown.
 
 This can support many tracks because every creator who wants to submit also helps generate votes for others.
+
+![alt text](image-1.png)
 
 ## Fairness
 
@@ -80,6 +84,9 @@ Example leaderboard item:
 #12 — Track Name
 18 wins · 7 losses · 72% win rate
 ↑ 5 positions
+
+![alt text](image-2.png)
+
 
 ## Competition ending
 

@@ -6,7 +6,7 @@
 
 ## UI and reference
 
-TBD
+![alt text](image.png)
 
 ## The idea
 
@@ -57,7 +57,7 @@ Rankings can use a flexible mix of signals, such as:
 - Play-to-like ratio
 - Recent growth in plays, likes, and other engagement
 
-<img src="images/artist-ranking-signals.png" alt="Artist Charts ranking signals flowing into an artist rank" width="400" />
+![alt text](image-1.png)
 
 ## Artist leagues
 
@@ -75,7 +75,6 @@ For example, an artist with 500 followers competes with artists at a similar lev
 
 This gives more artists a realistic goal and helps listeners discover emerging creators at different stages of growth.
 
-<img src="images/artist-leagues-auto.svg" alt="Artist Charts automatic league placement based on follower count" width="400" />
 
 ## Profile badge
 
@@ -86,7 +85,7 @@ Ranked artists can have a badge on their profile, for example:
 
 The badge makes chart success visible on the artist’s profile. Showing when it was updated tells visitors that the rank is current. Tapping the badge opens the related chart.
 
-<img src="images/artist-profile-chart-badge.png" alt="BandLab artist profile with an Artist Charts badge" width="400" />
+![alt text](image-2.png)
 
 ## Notifications
 
@@ -122,4 +121,4 @@ The main chart experience should remain free. Members could get deeper insights,
 
 This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
 
-<img src="images/artist-chart-premium-insights.png" alt="Premium Artist Charts insights with rank history, listener regions, and league comparison" width="400" />
+![alt text](image-3.png)
