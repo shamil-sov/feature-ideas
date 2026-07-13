@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Song Battles rewards screen</title>
+  <desc id="desc">A polished dark mobile app screen showing winner badges, finalist rewards, and featured placement.</desc>
+  <defs>
+    <linearGradient id="phoneBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111116"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe58f"/>
+      <stop offset="0.56" stop-color="#d18b22"/>
+      <stop offset="1" stop-color="#6d3a12"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff453f"/>
+      <stop offset="1" stop-color="#5a1733"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="#000"/>
+  <rect x="74" y="46" width="752" height="1508" rx="82" fill="url(#phoneBg)" stroke="#343640" stroke-width="4"/>
+  <rect x="104" y="82" width="692" height="1436" rx="58" fill="#09090d" stroke="#1d1e26" stroke-width="2"/>
+  <text x="142" y="160" fill="#f8f8fb" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750">9:41</text>
+  <text x="136" y="286" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="850">Rewards</text>
+  <text x="138" y="336" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">Make wins visible across BandLab.</text>
+
+  <rect x="136" y="398" width="628" height="270" rx="36" fill="#171821" stroke="#5c431c"/>
+  <circle cx="238" cy="532" r="70" fill="url(#gold)"/>
+  <path d="M238 485l16 34 37 5-27 26 6 37-32-17-33 17 6-37-27-26 37-5z" fill="#fff"/>
+  <text x="346" y="504" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="850">Genre Winner</text>
+  <text x="346" y="548" fill="#e7c981" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="750">Hip-Hop Battle</text>
+  <text x="346" y="590" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="22">Profile badge + featured track</text>
+  <rect x="346" y="616" width="160" height="38" rx="19" fill="#fff" fill-opacity="0.09"/>
+  <text x="374" y="641" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="850">Shareable</text>
+
+  <text x="136" y="742" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">Possible rewards</text>
+  <rect x="136" y="778" width="294" height="160" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="184" cy="842" r="26" fill="url(#red)"/>
+  <text x="232" y="838" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="850">Top 10</text>
+  <text x="172" y="890" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">Finalist badge</text>
+
+  <rect x="470" y="778" width="294" height="160" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="518" cy="842" r="26" fill="#7c4dff"/>
+  <text x="566" y="838" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="850">Boost</text>
+  <text x="506" y="890" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">Extra visibility</text>
+
+  <rect x="136" y="972" width="294" height="160" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="184" cy="1036" r="26" fill="#35e38b"/>
+  <text x="232" y="1032" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="850">Tokens</text>
+  <text x="172" y="1084" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">AI token prize</text>
+
+  <rect x="470" y="972" width="294" height="160" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="518" cy="1036" r="26" fill="#ffb44c"/>
+  <text x="566" y="1032" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="850">Feature</text>
+  <text x="506" y="1084" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">Home placement</text>
+
+  <rect x="136" y="1212" width="628" height="84" rx="30" fill="#12131a" stroke="#2c2e38"/>
+  <text x="178" y="1264" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">Badge appears on profile and track page</text>
+  <rect x="136" y="1344" width="628" height="70" rx="35" fill="#ff453f"/>
+  <text x="352" y="1389" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="850">Share win</text>
+</svg>

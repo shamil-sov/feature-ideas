@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Song Battles blind voting screen</title>
+  <desc id="desc">A polished dark mobile app screen showing anonymous track comparison with hidden popularity details.</desc>
+  <defs>
+    <linearGradient id="phoneBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111116"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4b45"/>
+      <stop offset="1" stop-color="#4b1633"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#5b3cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="#000"/>
+  <rect x="74" y="46" width="752" height="1508" rx="82" fill="url(#phoneBg)" stroke="#343640" stroke-width="4"/>
+  <rect x="104" y="82" width="692" height="1436" rx="58" fill="#09090d" stroke="#1d1e26" stroke-width="2"/>
+  <text x="142" y="160" fill="#f8f8fb" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750">9:41</text>
+  <text x="136" y="286" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="850">Blind vote</text>
+  <text x="138" y="336" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">Listen first. Popularity stays hidden.</text>
+
+  <rect x="136" y="388" width="628" height="86" rx="26" fill="#161820" stroke="#2c2e38"/>
+  <text x="178" y="440" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="850">Hidden: artist, followers, plays, current rank</text>
+
+  <rect x="136" y="532" width="628" height="284" rx="34" fill="#171821" stroke="#2c2e38"/>
+  <rect x="178" y="574" width="164" height="164" rx="28" fill="url(#a)"/>
+  <text x="382" y="614" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="850">Track A</text>
+  <text x="382" y="652" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="22">Anonymous preview</text>
+  <rect x="382" y="692" width="234" height="12" rx="6" fill="#2b2d36"/>
+  <rect x="382" y="692" width="132" height="12" rx="6" fill="#ff453f"/>
+  <circle cx="672" cy="650" r="46" fill="#22242e"/>
+  <path d="M658 624v52l44-26z" fill="#fff"/>
+  <text x="382" y="744" fill="#bec0c8" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">0:27 / 0:45</text>
+
+  <rect x="136" y="852" width="628" height="284" rx="34" fill="#171821" stroke="#2c2e38"/>
+  <rect x="178" y="894" width="164" height="164" rx="28" fill="url(#b)"/>
+  <text x="382" y="934" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="850">Track B</text>
+  <text x="382" y="972" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="22">Anonymous preview</text>
+  <rect x="382" y="1012" width="234" height="12" rx="6" fill="#2b2d36"/>
+  <rect x="382" y="1012" width="86" height="12" rx="6" fill="#ff453f"/>
+  <circle cx="672" cy="970" r="46" fill="#22242e"/>
+  <path d="M658 944v52l44-26z" fill="#fff"/>
+  <text x="382" y="1064" fill="#bec0c8" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">0:14 / 0:45</text>
+
+  <rect x="136" y="1200" width="294" height="72" rx="36" fill="#ff453f"/>
+  <text x="216" y="1246" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="850">Pick A</text>
+  <rect x="470" y="1200" width="294" height="72" rx="36" fill="#20222c" stroke="#30323b"/>
+  <text x="550" y="1246" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="850">Pick B</text>
+  <text x="330" y="1344" fill="#7f828d" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Both tracks get fair exposure</text>
+</svg>

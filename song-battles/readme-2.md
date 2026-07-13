@@ -11,19 +11,13 @@
 - [Song Wars invitation](https://www.reddit.com/r/Bandlab/comments/1tfa8xv/anybody_looking_for_song_wars_this_week_join_up/)
 - [Video reference](https://youtu.be/9NEsoIYq4kA)
 
-## Draft UI
-
-![Song Battles flow with competition, voting, leaderboard, submission, and voter profiles](images/image-2.png)
-
-![Voting leaderboard reference](images/image-1.png)
-
-![Tournament bracket reference](images/image-3.png)
-
 ## The idea
 
 Song Battles are short, recurring track competitions by genre, such as Hip-Hop, Rock, Pop, Electronic, and R&B.
 
 Creators submit a track, listeners compare tracks from the same genre, and the best-performing tracks become finalists or winners. The goal is to make music discovery more fun while giving every participant a fair chance to be heard.
+
+<img src="images/song-battle-discovery.svg" alt="Song Battles genre discovery screen" width="400" />
 
 ## Why it matters
 
@@ -51,6 +45,8 @@ Each vote shows two tracks from the same genre:
 
 This creates a simple exchange: if you want people to hear your track, you also spend time listening to other creators.
 
+<img src="images/song-battle-vote-to-submit.svg" alt="Song Battles vote-to-submit flow" width="400" />
+
 ## Fair voting
 
 During a comparison, BandLab can hide:
@@ -64,6 +60,8 @@ This keeps the focus on the music instead of the artist’s popularity.
 
 Tracks should receive a similar number of comparisons. Voting and ranking also need protection against repeated, coordinated, or artificial votes.
 
+<img src="images/song-battle-blind-voting.svg" alt="Song Battles blind voting comparison screen" width="400" />
+
 ## Ranking and results
 
 A track gets a win when it is chosen and a loss when the other track is chosen. The leaderboard can show:
@@ -75,6 +73,8 @@ A track gets a win when it is chosen and a loss when the other track is chosen. 
 - The creator’s own position
 
 When a round ends, voting closes and the results show the top tracks, finalists, winner, and final stats.
+
+<img src="images/song-battle-results.svg" alt="Song Battles ranking and results screen" width="400" />
 
 ## Rounds and seasons
 
@@ -88,6 +88,8 @@ Examples:
 
 Short rounds keep the competition active and give creators a reason to return.
 
+<img src="images/song-battle-rounds.svg" alt="Song Battles active rounds screen" width="400" />
+
 ## Rewards
 
 Top tracks could receive:
@@ -99,6 +101,8 @@ Top tracks could receive:
 - Prizes or other opportunities
 
 Examples include “Top 10 Hip-Hop Finalist” and “Genre Winner.”
+
+<img src="images/song-battle-rewards.svg" alt="Song Battles rewards and badges screen" width="400" />
 
 ## Voter recognition
 
@@ -112,6 +116,10 @@ The competition can recognize:
 
 This gives listeners status, helps them discover artists, and encourages continued participation.
 
+<img src="images/song-battle-voters.svg" alt="Song Battles voter recognition screen" width="400" />
+
 ## Community
 
 A battle page could include comments where people discuss the round, react to finalists, and support creators.
+
+<img src="images/song-battle-community.svg" alt="Song Battles community discussion screen" width="400" />

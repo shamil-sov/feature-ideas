@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Song Battles vote-to-submit screen</title>
+  <desc id="desc">A polished dark mobile app screen showing two-track voting and submission progress.</desc>
+  <defs>
+    <linearGradient id="phoneBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111116"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="cover1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a3d"/>
+      <stop offset="0.52" stop-color="#d7263d"/>
+      <stop offset="1" stop-color="#1b1230"/>
+    </linearGradient>
+    <linearGradient id="cover2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#49d6ff"/>
+      <stop offset="0.58" stop-color="#614cff"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="#000"/>
+  <rect x="74" y="46" width="752" height="1508" rx="82" fill="url(#phoneBg)" stroke="#343640" stroke-width="4"/>
+  <rect x="104" y="82" width="692" height="1436" rx="58" fill="#09090d" stroke="#1d1e26" stroke-width="2"/>
+  <text x="142" y="160" fill="#f8f8fb" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750">9:41</text>
+  <path d="M154 244l-26 26 26 26" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="136" y="360" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="850">Vote to submit</text>
+  <text x="138" y="408" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">Complete 10 votes to unlock your track.</text>
+
+  <rect x="136" y="458" width="628" height="154" rx="30" fill="#171821" stroke="#2c2e38"/>
+  <text x="178" y="522" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="850">4 of 10 votes</text>
+  <text x="178" y="562" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">6 votes left before submission</text>
+  <rect x="494" y="520" width="210" height="16" rx="8" fill="#2b2d36"/>
+  <rect x="494" y="520" width="84" height="16" rx="8" fill="#ff453f"/>
+
+  <text x="136" y="682" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Hip-Hop Battle - vote 5</text>
+  <rect x="136" y="718" width="294" height="390" rx="32" fill="#171821" stroke="#2c2e38"/>
+  <rect x="170" y="752" width="226" height="226" rx="28" fill="url(#cover1)"/>
+  <circle cx="282" cy="865" r="44" fill="#000" fill-opacity="0.32"/>
+  <path d="M268 840v50l42-25z" fill="#fff"/>
+  <text x="170" y="1030" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Track A</text>
+  <text x="170" y="1066" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">0:45 preview</text>
+
+  <rect x="470" y="718" width="294" height="390" rx="32" fill="#171821" stroke="#2c2e38"/>
+  <rect x="504" y="752" width="226" height="226" rx="28" fill="url(#cover2)"/>
+  <circle cx="616" cy="865" r="44" fill="#000" fill-opacity="0.32"/>
+  <path d="M602 840v50l42-25z" fill="#fff"/>
+  <text x="504" y="1030" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Track B</text>
+  <text x="504" y="1066" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">0:45 preview</text>
+
+  <circle cx="450" cy="918" r="42" fill="#0f1016" stroke="#30323b"/>
+  <text x="431" y="930" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="850">VS</text>
+
+  <rect x="136" y="1154" width="294" height="68" rx="34" fill="#ff453f"/>
+  <text x="217" y="1198" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="850">Pick A</text>
+  <rect x="470" y="1154" width="294" height="68" rx="34" fill="#20222c" stroke="#30323b"/>
+  <text x="551" y="1198" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="850">Pick B</text>
+  <rect x="262" y="1248" width="376" height="62" rx="31" fill="#14151c" stroke="#2c2e38"/>
+  <text x="416" y="1288" fill="#bdc0c8" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750">Skip</text>
+  <rect x="136" y="1360" width="628" height="84" rx="30" fill="#111219" stroke="#2c2e38"/>
+  <text x="178" y="1412" fill="#7c7f89" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Submission unlocks after 6 more votes</text>
+</svg>

@@ -77,20 +77,6 @@ This gives more artists a realistic goal and helps listeners discover emerging c
 
 <img src="images/artist-leagues-auto.svg" alt="Artist Charts automatic league placement based on follower count" width="400" />
 
-## Rank and progress
-
-Charts show how an artist is doing and how their position has changed:
-
-- Current rank
-- Up or down since the previous chart
-- New Entry
-- Highest Rank
-- Ranking history and performance trends
-
-Rank movement makes progress easier to see than play, like, or follower totals.
-
-<img src="images/artist-rank-progress.png" alt="Artist rank screen showing current rank, movement, history, and personal best" width="400" />
-
 ## Profile badge
 
 Ranked artists can have a badge on their profile, for example:

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Song Battles community screen</title>
+  <desc id="desc">A polished dark mobile app screen showing battle discussion, reactions, and comments.</desc>
+  <defs>
+    <linearGradient id="phoneBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111116"/>
+      <stop offset="1" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff453f"/>
+      <stop offset="0.5" stop-color="#7c4dff"/>
+      <stop offset="1" stop-color="#15233b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="#000"/>
+  <rect x="74" y="46" width="752" height="1508" rx="82" fill="url(#phoneBg)" stroke="#343640" stroke-width="4"/>
+  <rect x="104" y="82" width="692" height="1436" rx="58" fill="#09090d" stroke="#1d1e26" stroke-width="2"/>
+  <text x="142" y="160" fill="#f8f8fb" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750">9:41</text>
+  <path d="M154 244l-26 26 26 26" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="136" y="360" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="850">Battle chat</text>
+  <text x="138" y="408" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">React to finalists and support creators.</text>
+
+  <rect x="136" y="466" width="628" height="154" rx="30" fill="#171821" stroke="#2c2e38"/>
+  <rect x="174" y="504" width="80" height="80" rx="18" fill="url(#cover)"/>
+  <text x="284" y="522" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="850">Hip-Hop Battle</text>
+  <text x="284" y="560" fill="#a9abb5" font-family="Inter, Arial, sans-serif" font-size="20">Finalists announced - 1.8K comments</text>
+  <rect x="284" y="582" width="112" height="30" rx="15" fill="#ff453f" fill-opacity="0.18"/>
+  <text x="306" y="602" fill="#ff7676" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="850">Live chat</text>
+
+  <rect x="136" y="676" width="628" height="134" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="196" cy="743" r="34" fill="#ff453f"/>
+  <text x="250" y="728" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">JayMix</text>
+  <text x="250" y="764" fill="#b9bbc4" font-family="Inter, Arial, sans-serif" font-size="21">That bassline on #3 is wild.</text>
+  <text x="642" y="744" fill="#7f828d" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">12m</text>
+
+  <rect x="136" y="838" width="628" height="134" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="196" cy="905" r="34" fill="#7c4dff"/>
+  <text x="250" y="890" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">Lena</text>
+  <text x="250" y="926" fill="#b9bbc4" font-family="Inter, Arial, sans-serif" font-size="21">Voting made me find 4 new artists.</text>
+  <text x="642" y="906" fill="#7f828d" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">24m</text>
+
+  <rect x="136" y="1000" width="628" height="134" rx="28" fill="#171821" stroke="#2c2e38"/>
+  <circle cx="196" cy="1067" r="34" fill="#30323b"/>
+  <text x="250" y="1052" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="850">Ari</text>
+  <text x="250" y="1088" fill="#b9bbc4" font-family="Inter, Arial, sans-serif" font-size="21">Congrats to the finalists.</text>
+  <text x="642" y="1068" fill="#7f828d" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">31m</text>
+
+  <rect x="136" y="1200" width="628" height="74" rx="37" fill="#171821" stroke="#2c2e38"/>
+  <text x="178" y="1246" fill="#777a84" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">Add a comment...</text>
+  <circle cx="710" cy="1237" r="30" fill="#ff453f"/>
+  <path d="M698 1237h22M712 1226l12 11-12 11" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="104" y="1380" width="692" height="138" rx="38" fill="#0f1016" stroke="#22232b"/>
+  <text x="150" y="1438" fill="#777a84" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750">Overview</text>
+  <text x="304" y="1438" fill="#777a84" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750">Vote</text>
+  <circle cx="506" cy="1425" r="18" fill="#ff453f"/>
+  <text x="470" y="1472" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="850">Chat</text>
+  <text x="630" y="1438" fill="#777a84" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750">Results</text>
+</svg>
