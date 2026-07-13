@@ -49,7 +49,7 @@ The next comparison is shown.
 
 This can support many tracks because every creator who wants to submit also helps generate votes for others.
 
-<img src="images/song-battle-voting-flow.png" alt="Song Battle voting flow" width="400" />
+<img src="images/song-battle-voting-flow.png" alt="Song Battle voting flow" width="300" />
 
 ## Fairness
 
@@ -78,7 +78,7 @@ Example leaderboard item:
 18 wins · 7 losses · 72% win rate
 ↑ 5 positions
 
-<img src="images/song-battle-ranking.png" alt="Song Battle ranking" width="400" />
+<img src="images/song-battle-ranking.png" alt="Song Battle ranking" width="300" />
 
 
 ## Competition ending
@@ -165,7 +165,7 @@ For example:
 
 This makes voting feel more valuable, not just something users do once before submitting.
 
-<img src="images/song-battle-active-voters.png" alt="Most active Song Battle voters" width="400" />
+<img src="images/song-battle-active-voters.png" alt="Most active Song Battle voters" width="300" />
 
 ## Comment section
 

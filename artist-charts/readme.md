@@ -18,7 +18,7 @@ The goal is to:
 > [!NOTE]
 > Checkout [Prototype](https://artist-charts-shamil-review-20260712.sovshasovs.chatgpt.site/)
 
-<img src="images/artist-charts-ui.png" alt="Artist Charts UI" width="400" />
+<img src="images/artist-charts-ui.png" alt="Artist Charts UI" width="300" />
 
 
 ## Why it matters
@@ -43,7 +43,7 @@ People can explore artist rankings using three filters:
 - **Genre** — Hip-Hop, Rock, Pop, Electronic, R&B, Alternative Rock, and other major genres
 - **League** — artists grouped by follower count
 
-<img src="images/artist-charts-browser.png" alt="Artist Charts screen showing a compact ranked artist list" width="400" />
+<img src="images/artist-charts-browser.png" alt="Artist Charts screen showing a compact ranked artist list" width="300" />
 
 
 ## How ranking works
@@ -55,7 +55,7 @@ Rankings can use a flexible mix of signals, such as:
 - Play-to-like ratio
 - Recent growth in plays, likes, and other engagement
 
-<img src="images/artist-ranking-explainer.png" alt="Artist Charts ranking signals" width="400" />
+<img src="images/artist-ranking-explainer.png" alt="Artist Charts ranking signals" width="300" />
 
 ## Artist leagues
 
@@ -83,7 +83,7 @@ Ranked artists can have a badge on their profile, for example:
 
 The badge makes chart success visible on the artist’s profile. Showing when it was updated tells visitors that the rank is current. Tapping the badge opens the related chart.
 
-<img src="images/artist-profile-badge-ui.png" alt="Artist chart badge on a profile" width="400" />
+<img src="images/artist-profile-badge-ui.png" alt="Artist chart badge on a profile" width="300" />
 
 ## Notifications
 
@@ -96,7 +96,7 @@ BandLab can notify artists about meaningful chart moments:
 
 Artists may not check every chart update on their own. Notifications bring them back for meaningful moments and can encourage them to publish, promote their music, and engage with listeners. They should focus on milestones so they feel rewarding rather than noisy.
 
-<img src="images/artist-charts-push-notification.png" alt="Artist Charts rank milestone push notification" width="400" />
+<img src="images/artist-charts-push-notification.png" alt="Artist Charts rank milestone push notification" width="300" />
 
 ## Sharing
 
@@ -106,7 +106,7 @@ Artists can share their rank outside BandLab, for example:
 
 A ranking gives artists something specific to celebrate. Sharing can bring outside listeners to the artist’s profile and create organic promotion for BandLab.
 
-<img src="images/artist-chart-sharing.png" alt="Shareable Artist Charts achievement card" width="400" />
+<img src="images/artist-chart-sharing.png" alt="Shareable Artist Charts achievement card" width="300" />
 
 ## Premium chart insights
 
@@ -119,4 +119,4 @@ The main chart experience should remain free. Members could get deeper insights,
 
 This adds membership value without hiding the core ranking, recognition, or discovery experience behind a paywall.
 
-<img src="images/artist-premium-insights-ui.png" alt="Premium Artist Charts insights" width="400" />
+<img src="images/artist-premium-insights-ui.png" alt="Premium Artist Charts insights" width="300" />
