@@ -28,11 +28,6 @@ Example:
 
 If the user selects a negative option, they can optionally explain why.
 
-Example:
-
-- "The video doesn't match my song."
-- "The hashtags were not relevant."
-- "The summary feels generic."
 
 ## How it works
 
@@ -41,18 +36,12 @@ After a feature completes or reaches an important milestone, BandLab can show a 
 Examples:
 
 - After AI video generation
-- After AI profile summary generation
-- After AI hashtag generation
-- After completing a new onboarding flow
-- After using an experimental feature
+- After Lyrics transcription
+- After any other new feature...
 
 Feedback should be quick and optional.
 
 <img src="images/feedback-reason.png" alt="Optional reasons for negative feedback" width="300">
-
-After feedback is submitted, the user sees a short confirmation and can continue.
-
-<img src="images/feedback-submitted.png" alt="Feedback submitted confirmation" width="300">
 
 ## Centralized feedback service
 
@@ -77,7 +66,6 @@ The page could allow filtering by:
 - Feature
 - Rating
 - Date
-- User segment
 - App platform
 
 This would help us read real user feedback, spot common issues, and improve features faster.
@@ -103,7 +91,7 @@ This helps us understand:
 
 It can be especially valuable for experimental and AI-powered features where quality is subjective.
 
-## Benefits
+Benefits
 
 - Better understanding of feature quality
 - Faster identification of problems
