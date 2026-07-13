@@ -103,24 +103,10 @@ This helps us understand:
 
 It can be especially valuable for experimental and AI-powered features where quality is subjective.
 
-<img src="images/feedback-insights.png" alt="Feedback insights for an individual feature" width="900">
-
 ## Benefits
 
 - Better understanding of feature quality
 - Faster identification of problems
 - Direct user insights
-- Ability to measure sentiment alongside analytics
 - More informed product decisions
 - Reusable feedback system across many features
-
-## MVP
-
-- Show a feedback prompt after selected feature journeys.
-- Offer three response options:
-  - 👍 Love it
-  - 😐 It's okay
-  - 👎 Needs improvement
-- Optional text field for extra feedback.
-- Store feedback in one centralized service.
-- Provide an internal page where feedback can be viewed and filtered by feature.
